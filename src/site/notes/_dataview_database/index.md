@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/dataview-database/index/","title":"Dataview queries","tags":["dataview","index"]}
+{"dg-publish":true,"permalink":"/dataview-database/index/","title":"index","tags":["dataview","index"]}
 ---
 
 
-# Dataview queries
+# index
 
-><span style="color: orange; font-size:12">For these lists to display correct information you need to install `dataview` plugin</span>
+## Dataview queries
+
+> <span style="color: orange; font-size:12">For these lists to display correct information you need to install `dataview` plugin</span>
 
 ## Notes with "draft" status
 

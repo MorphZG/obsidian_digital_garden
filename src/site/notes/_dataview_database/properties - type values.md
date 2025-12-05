@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/dataview-database/properties-type-values/","title":"List of all values for type property","tags":["dataview","index"]}
+{"dg-publish":true,"permalink":"/dataview-database/properties-type-values/","title":"properties - type values","tags":["dataview","index"]}
 ---
 
 
-# List of all values for type property
+# properties - type values
 
-><span style="color: orange; font-size:12">For these lists to display correct information you need to install `dataview` plugin</span>
+## List of all values for type property
+
+> <span style="color: orange; font-size:12">For these lists to display correct information you need to install `dataview` plugin</span>
 
 <h3><span>Types and their count</span></h3><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Type</span><span class="dataview small-text">12</span></th><th class="table-view-th"><span>Count</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>reference</span></td><td>25</td></tr><tr><td><span>knowledge</span></td><td>12</td></tr><tr><td><span>life</span></td><td>4</td></tr><tr><td><span>workflow</span></td><td>4</td></tr><tr><td><span>idea</span></td><td>7</td></tr><tr><td><span>index</span></td><td>13</td></tr><tr><td><span>project</span></td><td>6</td></tr><tr><td><span>literature_note</span></td><td>14</td></tr><tr><td><span>blog_post</span></td><td>14</td></tr><tr><td><span>script</span></td><td>4</td></tr><tr><td><span>spiritual_literature</span></td><td>4</td></tr><tr><td><span>template</span></td><td>5</td></tr></tbody></table></div>
 

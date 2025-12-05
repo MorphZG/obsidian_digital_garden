@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/dataview-database/properties-status-property/","title":"Status property","tags":["dataview","index"]}
+{"dg-publish":true,"permalink":"/dataview-database/properties-status-property/","title":"properties - status property","tags":["dataview","index"]}
 ---
 
 
-# Explanation of status property
+# properties - status property
 
-><span style="color: orange; font-size:12">For these lists to display correct information you need to install `dataview` plugin</span>
+## Explanation of status property
+
+> <span style="color: orange; font-size:12">For these lists to display correct information you need to install `dataview` plugin</span>
 
 Stage of maturity or completeness of a note. Available values sorted from early stage to late stage:
 

@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/dataview-database/properties-available-keys/","title":"List available properties","tags":["dataview","index"]}
+{"dg-publish":true,"permalink":"/dataview-database/properties-available-keys/","title":"properties - available keys","tags":["dataview","index"]}
 ---
 
 
-# List available properties
+# properties - available keys
 
-><span style="color: orange; font-size:12">For these lists to display correct information you need to install `dataview` plugin</span>
+## List available properties
+
+> <span style="color: orange; font-size:12">For these lists to display correct information you need to install `dataview` plugin</span>
 
 <h5><span>Frontmatter properties</span></h5><div><ul class="dataview list-view-ul"><li><span>date</span></li><li><span>source</span></li><li><span>status</span></li><li><span>tags</span></li><li><span>title</span></li><li><span>type</span></li><li><span>URL</span></li><li><span>dg-publish</span></li><li><span>author</span></li><li><span>pages</span></li><li><span>year</span></li><li><span>scoreGr</span></li><li><span>rating</span></li><li><span>cover</span></li><li><span>isbn</span></li><li><span>language</span></li><li><span>created</span></li><li><span>last_updated</span></li><li><span>version</span></li><li><span>description</span></li><li><span>os</span></li><li><span>requires_tty</span></li><li><span>requires_root</span></li><li><span>risk_level</span></li><li><span>category</span></li><li><span>dg-home</span></li></ul></div>
 
