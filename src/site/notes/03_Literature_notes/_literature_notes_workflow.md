@@ -16,7 +16,6 @@
 
 Every time new file is created under the `03_Literature_notes` directory, `Templater` plugin will use the following template to generate default file structure: [[_templates/literature_note_template\|literature_note_template]]
 
-
 ## Active reading during the session
 
 - Highlight key points. Focus on important definitions, concepts and examples. Avoid highlighting too much.

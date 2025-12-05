@@ -115,6 +115,6 @@ ES6 adds a new special-purpose type, known as **Symbol**, that enables the defin
 
 An object (member of a type object) is a collection of properties where each property has a name and a value (either a primitive value or another object). Special object, the **global** object is covered in 3.7, but more general and more detailed coverage of objects is in chapter 6.
 
-###### CONTINUE HERE..
+###### CONTINUE HERE.
 
 In addition to basic objects and arrays, javascript defines...

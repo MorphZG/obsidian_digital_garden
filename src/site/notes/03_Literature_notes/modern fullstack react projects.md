@@ -3,26 +3,12 @@
 ---
 
 
-```md
-## First Chapter
-### Key concepts
-Main Idea
-Details
-### Personal thoughts
-### Questions, concepts to explore
-### Chapter summary
-### Examples or code snippets
-- Code examples for the chapter: []()
-- Code in action video: []()
-### References or additional reading
-```
----
-
 # Modern Full-Stack React Projects
 
 ## Build, maintain, and deploy modern web apps using MongoDB, Express, React, and Node.js
 
 - Code examples available at: [github.com/packtpublishing](https://github.com/PacktPublishing/Modern-Full-Stack-React-Projects/tree/main)
+
 > [!abstract]- book metadata
 Title: Modern Full-Stack React Projects
 Author: Daniel Bugl
@@ -84,10 +70,10 @@ Cover:
   - Tryout the technologies introduced in this book so you can follow the instructions but do not hesitate to learn the alternative tech stacks on later. Web is forever changing and you should be able to adapt and learn new tools and concepts if you are to become proficient and versatile web developer.
 - Setting up the dev environment.
   - Install VS Code and following extensions:
-    - Docker (by Microsoft)
-    - ESLint (by Microsoft)
-    - Prettier (by Prettier)
-    - MongoDB for VS Code (by MongoDB)
+	- Docker (by Microsoft)
+	- ESLint (by Microsoft)
+	- Prettier (by Prettier)
+	- MongoDB for VS Code (by MongoDB)
   - Create a main directory for projects in the book and a subdirectory for each of the chapters
   - Setup a project with Vite v5.0.0 (book version)
   - Setup ESLint and Prettier to enforce the best practices and code style
@@ -109,15 +95,15 @@ First chapter introduced requirements for successfully set up the project by enf
 
 ### Examples or code snippets
 
->[!abstract] Technical requirements
->While different version should not be an issue, note that some steps might work differently with different versions. Before moving forward, install the following:
+> [!abstract] Technical requirements
+> While different version should not be an issue, note that some steps might work differently with different versions. Before moving forward, install the following:
 >    - Node.js v20.10.0
 >    - Git v2.43.0
 >    - Visual Studio Code v1.84.2
 
 - Code examples for the chapter: [github.com/chapter01](https://github.com/PacktPublishing/Modern-Full-Stack-React-Projects/tree/main/ch1)
 - Code in action video: [youtube.com/video](https://youtu.be/dyf3nECvKAE)
-- I have setup the project by running `npm create vite@latest` since some dependencies recommended by the author are deprecated in their respective versions. Follow official installation instructions for `Vite`, `ESLint`, and `Prettier` 
+- I have setup the project by running `npm create vite@latest` since some dependencies recommended by the author are deprecated in their respective versions. Follow official installation instructions for `Vite`, `ESLint`, and `Prettier`
 
 ```bash
 # create and change into chapter directory
@@ -127,6 +113,7 @@ cd "book modern_fullstack_react/ch1"
 npm create vite@latest .
 # select React and vanilla Javascript when prompted
 ```
+
 ```bash
 # to define a new script in the package.json using a CLI
 npm pkg set scripts.lint="eslint src"
@@ -164,14 +151,14 @@ In the browser, javascript is event-driven and code runs because of user interac
 
 Synchronous code is put directly on the `call stack` and executed by the `event loop` in the same order. Asynchronous code stores the instance of that operation, together with a callback, in a queue. When queue is cleared callback function is executed and again, can either execute synchronous or asynchronous code.
 
->[!tip]
->You can use the Loupe tool to visualize the inner workings of the Call Stack, web APIs, Event Loop, and Callback/Task Queue: http://latentflip.com/loupe/
+> [!tip]
+> You can use the Loupe tool to visualize the inner workings of the Call Stack, web APIs, Event Loop, and Callback/Task Queue: http://latentflip.com/loupe/
 
 [[00_Fleeting_inbox/Docker\|Docker]] enables the packaging and execution of applications within containers, which are loosely isolated environments. This differs significantly from virtual machines, which creates the instance of complete operating system, each with its own kernel and allocated hardware resources. Containers, in contrast, leverage the host operating system's kernel and share resources, resulting in a more streamlined and efficient deployment. While virtual machines offer strong isolation, containers provide a lightweight alternative. Both technologies serve valuable purposes and can be effectively combined.
 
 `MongoDB` is on of the most popular NoSQL databases today. Instead of SQL, these databases have various other ways to write queries and often have a vastly different structure and rules for how data is defined and stored.
 
-MongoDB is a document based and each entry is stored almost like a regular JSON object (internally defined as a BSON or binary JSON which saves space and improves performance). Such format does not have a strict schema rules when defining the data, it is very flexible. Lack of a strict structure can also cause issues. MongoDB is based on javascript engine and there are libraries like `Mongoose.js` that implements schema definitions and simplifies interaction with the database. 
+MongoDB is a document based and each entry is stored almost like a regular JSON object (internally defined as a BSON or binary JSON which saves space and improves performance). Such format does not have a strict schema rules when defining the data, it is very flexible. Lack of a strict structure can also cause issues. MongoDB is based on javascript engine and there are libraries like `Mongoose.js` that implements schema definitions and simplifies interaction with the database.
 
 ### Questions, concepts to explore
 
@@ -179,7 +166,6 @@ MongoDB is a document based and each entry is stored almost like a regular JSON 
 - Different javascript engines. v8, SpiderMonkey, JavaScriptCore
 - Explore Docker and other container platforms like Kubernetes.
 - Security and efficiency comparison between containers and virtual machines?
-
 
 ### Chapter summary
 
@@ -191,19 +177,19 @@ Finally everything comes together by running the mongodb daemon (port: 27018) in
 
 ### Examples or code snippets
 
->[!abstract] Technical requirements
+> [!abstract] Technical requirements
 > In addition to all from previous chapter, we need the following:
 >    - Docker v24.0.6
 >    - Docker Desktop v4.25.2
 >    - MongoDB Shell v2.1.0
-    
+
 - Code examples for the chapter: [github.com/chapter02](https://github.com/PacktPublishing/Modern-Full-Stack-React-Projects/tree/main/ch2)
 - Code in action video: [youtube.com/video](https://youtu.be/q_LHsdJEaPo)
 - [[_assets/node-vs-browser-structure.png|link to image]] - Arhitecture of Node.js vs browser javascript
 - [[_assets/multithreaded vs node server.png|link to image]] - Difference between multi-threaded servers and Node.js server
 - [[_assets/comparison_mongoDB_and_SQL_databases.png|link to image]] - Comparison between MongoDB and SQL databases
 
-With Docker Desktop running, Docker daemon will simultaneously run in the background. From the terminal run the following command: 
+With Docker Desktop running, Docker daemon will simultaneously run in the background. From the terminal run the following command:
 
 ```sh
 # read options description down below
@@ -286,24 +272,23 @@ Traditional full-stack apps would use backend to render and display the frontend
 We can distinguish between the actual backend service as a core of the application that handles the data and the business logic provided through the API and a separate layer that sometimes exists, `backend for frontend` which job is to handle things like `server-side rendering`, initial rendering of the app to improve the performance, SEO and managing of the static files. It acts as an intermediary between the frontend and the core backend services.
 
 For this example project we will modify the MVC pattern:
-    - Route layer: handle user input by processing the requests
-    - Service layer: provide CRUD functions
-    - Data layer: access the database and basic data validation
+	- Route layer: handle user input by processing the requests
+	- Service layer: provide CRUD functions
+	- Data layer: access the database and basic data validation
 
 `mongodb-memory-server` package spins up an actual MongoDB server programmatically from within nodejs. Enables easier testing or mocking during development. By default it holds the data in memory. A fresh mongod process takes about 7Mb of memory. The server will allow you to connect your favorite ODM or client library to the MongoDB server and run integration tests isolated from each other.
 
 ### Questions, concepts to explore
 
-
 ### Chapter summary
 
 We are creating a blog application with the following features:
-    - get a list of posts
-    - get a single post
-    - create a new post
-    - update an existing post
-    - delete an existing post
-    
+	- get a list of posts
+	- get a single post
+	- create a new post
+	- update an existing post
+	- delete an existing post
+
 Start with a database schema that will define the blog post object.
 Create service functions to handle CRUD functionality.
 Setup testing environment with jest and mongodb-memory-server.

@@ -71,22 +71,23 @@ Cover:
 ### Key concepts
 
 - Declaring variables:
-    - In addition to `var`, modern javascript can benefit from `const` (constant) and `let` (lexical variable scope) keywords
+	- In addition to `var`, modern javascript can benefit from `const` (constant) and `let` (lexical variable scope) keywords
 - Template strings
 - Creating functions
-    - Function declaration
-    - Function expression
-    - Arrow functions
+	- Function declaration
+	- Function expression
+	- Arrow functions
 - Compiling javascript
 - Objects and arrays
 - Asynchronous javascript
-    - Simple promises with `fetch`
-    - `async` and `await` keywords
-    - Building promises
+	- Simple promises with `fetch`
+	- `async` and `await` keywords
+	- Building promises
 - Classes
 - ES6 Modules vs CommonJS
 
 ### Questions, concepts to explore
+
 ### Personal thoughts
 
 Since initial release in 1995, Javascript has gone through many changes. From adding interactive elements to the web pages javascript became more robust with early `DHTML` and `AJAX` features to `Node.js` and many different frameworks but also many core, built-in features have improved so much that javascript has become a real software language that's used to build modern, fullstack applications we have today. In early days many software engineers considered javascript to be a gimmick scripting language and nothing more than that.
@@ -104,6 +105,7 @@ console.log(lastName + ", " + firstName + " " + middleName);
 // template string or template literal uses backticks and respects the whitespasce making them easier to read
 console.log(`${lastName}, ${firstName} ${middleName}`);
 ```
+
 - Function Declaration starts with the `function` keyword
 
 ```javascript
@@ -115,6 +117,7 @@ function logSomething() {
     console.log("You are doing great");
 }
 ```
+
 - Function Expression. If you write the function as a part of the variable then you have written an expression. Such functions are not hoisted and will produce `TypeError` if you invoke it before you write an expression.
 
 ```javascript
@@ -127,8 +130,8 @@ const logSomething = function() {
 logSomething(); // works fine
 ```
 
->[!tip]
->When importing files and functions in a project you can occasionally get an `TypeError: [name] is not a function` because a function you imported is written as an expression. If you see it, try to refactor the code and declare the function.
+> [!tip]
+> When importing files and functions in a project you can occasionally get an `TypeError: [name] is not a function` because a function you imported is written as an expression. If you see it, try to refactor the code and declare the function.
 
 ### Chapter summary
 
@@ -139,4 +142,3 @@ logSomething(); // works fine
 - [ECMAScript compatibility table](compat-table.github.io/compat-table/) - List of proposed javascript features and their support by the browsers
 - [[01_Reference/javascript notes\|Javascript notes]] - personal reference note on important javascript concepts
 - [[#Table of content|Table of content]]: Jump up!
-

@@ -3,8 +3,7 @@
 ---
 
 
-
-# Book title
+# How to take smart notes
 
 > [!abstract]- book metadata
 Title: "How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking"
@@ -20,21 +19,6 @@ Height:
 Width:
 Cover:
 <img src="https://m.media-amazon.com/images/I/81b8H-MhlHL._SL1500_.jpg" alt="Cover" width="300" />
-
-## First Chapter
-### Key concepts
-### Questions, concepts to explore
-### Personal thoughts
-### Examples or code snippets
-### Chapter summary
-### References or additional reading materials
-
-## Second Chapter
-(repeat the structure)
-
-# How to take smart notes
-
-###### One Simple Technique to Boost Writing, Learning and Thinking
 
 ## Introduction
 

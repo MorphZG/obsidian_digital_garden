@@ -12,6 +12,10 @@
 - [ ] Ryan Holiday - [Discipline is destiny](https://www.goodreads.com/book/show/60018575); philosophy, self-help
 - [ ] Ted Chiang - [Exhalation](https://www.goodreads.com/book/show/41160292); collection of SF short stories
 - [ ]
+
 - [ ]
+
 - [ ]
+
 - [ ]
+
