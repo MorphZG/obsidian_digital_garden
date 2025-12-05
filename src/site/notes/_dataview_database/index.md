@@ -14,51 +14,51 @@ _Switch to edit mode to see the actual query and the comments explaining the syn
 
 | File                                                                                                                     | status | modified           |
 | ------------------------------------------------------------------------------------------------------------------------ | ------ | ------------------ |
+| [[00_Fleeting_inbox/Docker\|Docker]]                                                                                  | draft  | December 05, 2025  |
+| [[00_Fleeting_inbox/freelancing\|freelancing]]                                                                        | draft  | December 05, 2025  |
+| [[00_Fleeting_inbox/git workflows\|git workflows]]                                                                    | draft  | December 05, 2025  |
+| [[00_Fleeting_inbox/http and the web\|http and the web]]                                                              | draft  | December 05, 2025  |
+| [[00_Fleeting_inbox/interesting quotes\|interesting quotes]]                                                          | draft  | December 05, 2025  |
+| [[00_Fleeting_inbox/job hunting for junior devs\|job hunting for junior devs]]                                        | draft  | December 05, 2025  |
+| [[01_Reference/curl\|curl]]                                                                                           | draft  | December 05, 2025  |
+| [[01_Reference/fzf\|fzf]]                                                                                             | draft  | December 05, 2025  |
+| [[01_Reference/google search\|google search]]                                                                         | draft  | December 05, 2025  |
+| [[01_Reference/javascript notes\|javascript notes]]                                                                   | draft  | December 05, 2025  |
+| [[01_Reference/react notes\|react notes]]                                                                             | draft  | December 05, 2025  |
+| [[01_Reference/tar archive\|tar archive]]                                                                             | draft  | December 05, 2025  |
+| [[01_Reference/ux-ui design, figma\|ux-ui design, figma]]                                                             | draft  | December 05, 2025  |
+| [[01_Reference/zakon o policijskim poslovima i ovlastima\|zakon o policijskim poslovima i ovlastima]]                 | draft  | December 05, 2025  |
+| [[02_Ideas_and_projects/ideas/Singularity\|Singularity]]                                                              | draft  | December 05, 2025  |
+| [[02_Ideas_and_projects/ideas/deluxe static web\|deluxe static web]]                                                  | draft  | December 05, 2025  |
+| [[02_Ideas_and_projects/ideas/family integration for elders\|family integration for elders]]                          | draft  | December 05, 2025  |
+| [[02_Ideas_and_projects/projects/_dev_tools/LLM/bootstrap LLM environment\|bootstrap LLM environment]]                | draft  | December 05, 2025  |
+| [[02_Ideas_and_projects/projects/_dev_tools/LLM/instructions\|instructions]]                                          | draft  | December 05, 2025  |
+| [[02_Ideas_and_projects/projects/course_react/instructions\|instructions]]                                            | draft  | December 05, 2025  |
+| [[03_Literature_notes/McMafia\|McMafia]]                                                                              | draft  | December 05, 2025  |
+| [[03_Literature_notes/domovinski rat - rat prije rata\|domovinski rat - rat prije rata]]                              | draft  | December 05, 2025  |
+| [[03_Literature_notes/grokking web application security\|grokking web application security]]                          | draft  | December 05, 2025  |
+| [[03_Literature_notes/javascript - the definitive guide\|javascript - the definitive guide]]                          | draft  | December 05, 2025  |
+| [[03_Literature_notes/learning typecript\|learning typecript]]                                                        | draft  | December 05, 2025  |
+| [[03_Literature_notes/react key concepts - an in-depth guide\|react key concepts - an in-depth guide]]                | draft  | December 05, 2025  |
+| [[03_Literature_notes/the science of self-discipline\|the science of self-discipline]]                                | draft  | December 05, 2025  |
+| [[06_Religija/bible quotes\|bible quotes]]                                                                            | draft  | December 05, 2025  |
+| [[06_Religija/devotional_reading/god presence in the dark seasons of life\|god presence in the dark seasons of life]] | draft  | December 05, 2025  |
+| [[06_Religija/devotional_reading/nasljeduj krista\|nasljeduj krista]]                                                 | draft  | December 05, 2025  |
+| [[06_Religija/expressions/from logic to belief\|from logic to belief]]                                                | draft  | December 05, 2025  |
+| [[06_Religija/katekizam katolicke crkve\|katekizam katolicke crkve]]                                                  | draft  | December 05, 2025  |
+| [[06_Religija/todo\|todo]]                                                                                            | draft  | December 05, 2025  |
 | [[03_Literature_notes/linux command line and shell scripting bible\|linux command line and shell scripting bible]]    | draft  | December 05, 2025  |
 | [[03_Literature_notes/learning react - modern patterns 2nd edition\|learning react - modern patterns 2nd edition]]    | draft  | December 05, 2025  |
-| [[03_Literature_notes/javascript - the definitive guide\|javascript - the definitive guide]]                          | draft  | December 05, 2025  |
 | [[03_Literature_notes/how to take smart notes\|how to take smart notes]]                                              | draft  | December 05, 2025  |
 | [[03_Literature_notes/building a second brain\|building a second brain]]                                              | draft  | December 05, 2025  |
 | [[03_Literature_notes/books to read\|books to read]]                                                                  | draft  | December 05, 2025  |
 | [[03_Literature_notes/modern fullstack react projects\|modern fullstack react projects]]                              | draft  | December 05, 2025  |
-| [[06_Religija/todo\|todo]]                                                                                            | draft  | December 05, 2025  |
-| [[06_Religija/katekizam katolicke crkve\|katekizam katolicke crkve]]                                                  | draft  | December 05, 2025  |
-| [[06_Religija/bible quotes\|bible quotes]]                                                                            | draft  | December 05, 2025  |
-| [[01_Reference/ux-ui design, figma\|ux-ui design, figma]]                                                             | draft  | December 05, 2025  |
-| [[01_Reference/tar archive\|tar archive]]                                                                             | draft  | December 05, 2025  |
-| [[01_Reference/react notes\|react notes]]                                                                             | draft  | December 05, 2025  |
-| [[01_Reference/javascript notes\|javascript notes]]                                                                   | draft  | December 05, 2025  |
-| [[01_Reference/google search\|google search]]                                                                         | draft  | December 05, 2025  |
-| [[01_Reference/fzf\|fzf]]                                                                                             | draft  | December 05, 2025  |
-| [[01_Reference/curl\|curl]]                                                                                           | draft  | December 05, 2025  |
-| [[06_Religija/expressions/from logic to belief\|from logic to belief]]                                                | draft  | December 05, 2025  |
-| [[00_Fleeting_inbox/git workflows\|git workflows]]                                                                    | draft  | December 01, 2025  |
 | [[_templates/scripts_template\|scripts_template]]                                                                     | draft  | November 29, 2025  |
-| [[06_Religija/devotional_reading/nasljeduj krista\|nasljeduj krista]]                                                 | draft  | November 27, 2025  |
-| [[03_Literature_notes/the science of self-discipline\|the science of self-discipline]]                                | draft  | November 27, 2025  |
-| [[03_Literature_notes/learning typecript\|learning typecript]]                                                        | draft  | November 27, 2025  |
-| [[03_Literature_notes/McMafia\|McMafia]]                                                                              | draft  | November 27, 2025  |
-| [[03_Literature_notes/grokking web application security\|grokking web application security]]                          | draft  | November 27, 2025  |
-| [[03_Literature_notes/react key concepts - an in-depth guide\|react key concepts - an in-depth guide]]                | draft  | November 27, 2025  |
-| [[06_Religija/devotional_reading/god presence in the dark seasons of life\|god presence in the dark seasons of life]] | draft  | November 27, 2025  |
 | [[_scripts/_templater_docs\|_templater_docs]]                                                                         | draft  | November 05, 2025  |
-| [[02_Ideas_and_projects/projects/course_react/instructions\|instructions]]                                            | draft  | September 27, 2025 |
-| [[02_Ideas_and_projects/projects/_dev_tools/LLM/instructions\|instructions]]                                          | draft  | September 27, 2025 |
-| [[00_Fleeting_inbox/interesting quotes\|interesting quotes]]                                                          | draft  | September 16, 2025 |
-| [[02_Ideas_and_projects/projects/_dev_tools/LLM/bootstrap LLM environment\|bootstrap LLM environment]]                | draft  | September 08, 2025 |
 | [[02_Ideas_and_projects/projects/_dev_tools/LLM/writing agents\|writing agents]]                                      | draft  | September 08, 2025 |
 | [[02_Ideas_and_projects/ideas/portable system configuration\|portable system configuration]]                          | draft  | August 05, 2025    |
 | [[02_Ideas_and_projects/ideas/personal chatbot\|personal chatbot]]                                                    | draft  | July 30, 2025      |
-| [[02_Ideas_and_projects/ideas/deluxe static web\|deluxe static web]]                                                  | draft  | July 30, 2025      |
-| [[03_Literature_notes/domovinski rat - rat prije rata\|domovinski rat - rat prije rata]]                              | draft  | July 20, 2025      |
-| [[02_Ideas_and_projects/ideas/family integration for elders\|family integration for elders]]                          | draft  | July 20, 2025      |
-| [[01_Reference/zakon o policijskim poslovima i ovlastima\|zakon o policijskim poslovima i ovlastima]]                 | draft  | July 20, 2025      |
-| [[00_Fleeting_inbox/Docker\|Docker]]                                                                                  | draft  | March 07, 2025     |
 | [[00_Fleeting_inbox/neurotransmitters\|neurotransmitters]]                                                            | draft  | February 10, 2025  |
-| [[02_Ideas_and_projects/ideas/Singularity\|Singularity]]                                                              | draft  | January 10, 2025   |
-| [[00_Fleeting_inbox/freelancing\|freelancing]]                                                                        | draft  | January 04, 2025   |
-| [[00_Fleeting_inbox/job hunting for junior devs\|job hunting for junior devs]]                                        | draft  | January 04, 2025   |
-| [[00_Fleeting_inbox/http and the web\|http and the web]]                                                              | draft  | December 18, 2024  |
 
 { .block-language-dataview}
 
