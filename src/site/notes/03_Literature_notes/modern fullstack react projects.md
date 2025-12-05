@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-literature-notes/modern-fullstack-react-projects/","title":"Modern Full-Stack React Projects","tags":["webdev","javascript","react"]}
+{"author":"Daniel Bugl","date":"2025-01-07","dg-publish":true,"source":"book","status":"draft","tags":["webdev","javascript","react"],"title":"Modern Full-Stack React Projects","type":"literature_note","URL":"https://www.packtpub.com/en-us/product/modern-full-stack-react-projects-9781837637959","permalink":"/03-literature-notes/modern-fullstack-react-projects/","dgPassFrontmatter":true}
 ---
 
 

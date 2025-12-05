@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-literature-notes/how-to-take-smart-notes/","title":"How to take smart notes","tags":["productivity","writings"]}
+{"author":"Sonke Ahrens","date":null,"dg-publish":true,"source":"book","status":"draft","tags":["productivity","writings"],"title":"How to take smart notes","type":"literature_note","URL":null,"permalink":"/03-literature-notes/how-to-take-smart-notes/","dgPassFrontmatter":true}
 ---
 
 

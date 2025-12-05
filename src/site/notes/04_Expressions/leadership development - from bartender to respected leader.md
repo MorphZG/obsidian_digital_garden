@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-expressions/leadership-development-from-bartender-to-respected-leader/","title":"Leadership development - From bartender to respected leader","tags":["career","self-help","leadership"]}
+{"date":"2025-07-17","dg-publish":true,"source":null,"status":"detailed","tags":["career","self-help","leadership"],"title":"Leadership development - From bartender to respected leader","type":"blog_post","URL":"","permalink":"/04-expressions/leadership-development-from-bartender-to-respected-leader/","dgPassFrontmatter":true}
 ---
 
 

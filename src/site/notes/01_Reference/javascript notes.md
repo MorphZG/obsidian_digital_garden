@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-reference/javascript-notes/","title":"Javascript notes","tags":["javascript","webdev","programming"]}
+{"date":"2025-01-30","dg-publish":true,"source":"web","status":"draft","tags":["javascript","webdev","programming"],"title":"Javascript notes","type":"reference","URL":null,"permalink":"/01-reference/javascript-notes/","dgPassFrontmatter":true}
 ---
 
 
@@ -28,7 +28,7 @@ Modern javascript allows few different styles when defining a function. If you a
 
 A function declaration defines a function using the `function` keyword, followed by the function name, parameters in parentheses, and the function body inside the curly braces. Declared function are hoisted, available before being defined. Hoisting can make code harder to read and understand, especially for developers who are not familiar with the concept. Seeing a function called before it's defined can be confusing and disrupt the natural flow of reading the code.
 
-To mitigate any possible problems with declared functions being hoisted you should declare them at the top of their scope. Generally preferred for top level functions that you want to be available throughout your code. If you organize all functions below or above main logic than your code can become more readable. 
+To mitigate any possible problems with declared functions being hoisted you should declare them at the top of their scope. Generally preferred for top level functions that you want to be available throughout your code. If you organize all functions below or above main logic than your code can become more readable.
 
 ```javascript
 // function declaration
@@ -64,8 +64,8 @@ const f = function fact(x) { if (x <= 1) return 1; else return x*fact(x-1); };
 let tensquared = (function(x) {return x*x;}(10));
 ```
 
->[!tip]
->When importing files and functions in a project, you can occasionally get `TypeError: [name] is not a function`. It can happen because imported function expressions are called before being declared. To solve the issue you can refactor the function expression as a declaration.
+> [!tip]
+> When importing files and functions in a project, you can occasionally get `TypeError: [name] is not a function`. It can happen because imported function expressions are called before being declared. To solve the issue you can refactor the function expression as a declaration.
 
 #### Arrow functions (ref javascript definitive guide 8.1.3)
 
@@ -103,19 +103,21 @@ const doubled = numbers.map(number => number * 2); // Concise callback
 By using the `web API` provided by the browser, we can manipulate the DOM. There are many different `web API's` you can reference them at: [MDN website/docs/web/api](https://developer.mozilla.org/en-US/docs/Web/API). Reference and guide to the DOM is available at: [MDN website/.../document_object_model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
 - Adding text content:
+
 ```javascript
 // creates a text node containing "Hello World!" and inserts it in div
 div.textContent = "Hello World!";
 ```
 
 - Adding HTML content:
+
 ```javascript
 // renders the HTML inside div
 div.innerHTML = "<span>Hello World!</span>";
 ```
 
->[!tip]
->Using `element.textContent` is preferred over `element.innerHTML` for adding text. `innerHTML` should be used with caution to avoid potential security risks where it is possible to render `<script>` blocks with malicious code. Watch this [video about preventing one of the most common cross-site scripting attacks.](https://youtube.com/watch?v=ns1LX6mEvyM)
+> [!tip]
+> Using `element.textContent` is preferred over `element.innerHTML` for adding text. `innerHTML` should be used with caution to avoid potential security risks where it is possible to render `<script>` blocks with malicious code. Watch this [video about preventing one of the most common cross-site scripting attacks.](https://youtube.com/watch?v=ns1LX6mEvyM)
 
 ## Asynchronous Javascript
 

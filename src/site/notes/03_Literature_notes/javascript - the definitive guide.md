@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-literature-notes/javascript-the-definitive-guide/","title":"Javascript - The definitive guide","tags":["webdev","javascript"]}
+{"author":"David Flanagan","date":"2024-10-16","dg-publish":true,"source":"book","status":"draft","tags":["webdev","javascript"],"title":"Javascript - The definitive guide","type":"literature_note","URL":"https://www.goodreads.com/book/show/61157620-javascript","permalink":"/03-literature-notes/javascript-the-definitive-guide/","dgPassFrontmatter":true}
 ---
 
 
@@ -115,6 +115,6 @@ ES6 adds a new special-purpose type, known as **Symbol**, that enables the defin
 
 An object (member of a type object) is a collection of properties where each property has a name and a value (either a primitive value or another object). Special object, the **global** object is covered in 3.7, but more general and more detailed coverage of objects is in chapter 6.
 
-###### CONTINUE HERE.
+###### CONTINUE HERE
 
 In addition to basic objects and arrays, javascript defines...

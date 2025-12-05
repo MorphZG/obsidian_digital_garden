@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-reference/ux-ui-design-figma/","title":"Design 101 Crash Course: Learn UX/UI Design, Figma","tags":["design","UI-UX"]}
+{"date":null,"dg-publish":true,"source":"youtube.com/ZeroToMastery","status":"draft","tags":["design","UI-UX"],"title":"Design 101 Crash Course: Learn UX/UI Design, Figma","type":"knowledge","URL":"https://www.youtube.com/watch?v=cKZEgtQUxlU","permalink":"/01-reference/ux-ui-design-figma/","dgPassFrontmatter":true}
 ---
 
 
@@ -65,7 +65,6 @@ Generate as many ideas you can, just basic sketch with low details. Slowly refin
 ### Questions, concepts to explore
 
 ### Chapter summary
-
 
 ## Additional resources
 

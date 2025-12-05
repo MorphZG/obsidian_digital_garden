@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-religija/molitve/","title":"Moje molitve","tags":["religion","prayer"]}
+{"author":"Zoran Topic","date":"2025-11-04","dg-publish":true,"source":"","status":"useful","tags":["religion","prayer"],"title":"Moje molitve","type":"reference","URL":null,"permalink":"/06-religija/molitve/","dgPassFrontmatter":true}
 ---
 
 
@@ -101,9 +101,10 @@ Amen.
 ---
 
 ##### Slava ocu
+
 Slava Ocu i Sinu i Duhu Svetomu.
 Kako bijaše na početku, tako i sada i vazda
-i u vijeke vjekova. 
+i u vijeke vjekova.
 Amen.
 
 [[#Moje molitve|Link na vrh]]
@@ -265,19 +266,19 @@ Amen.
 
 Na samom početku izaberi tekst Svetog pisma nad kojim želiš moliti. Preporučljivo je da se uzme ulomak iz čitanja liturgije dana, ili iz nedjeljne liturgije, ukoliko se božanskim čitanjem želimo za nju pripraviti. Zatim odaberi mjesto i zauzmi položaj koji ti najviše odgovara. Isključi sve ono što ti može smetati. Odluči koliko vremena želiš provesti u molitvi (desetak minuta) nemoj žuriti. Stavi preda se svetu sliku ili križ da ti pomogne u sabranosti. Saberi se, usredotoči se na vlastito disanje, ili na kakav drugi način omogući sebi da na trenutak zastaneš i da osjetiš unutarnju šutnju. Zazovi Duha Svetoga i počni sa znakom križa. Ovo je sveto vrijeme koje ti želiš posvetiti Bogu, kako bi on mogao govoriti tvome životu.
 
-2. Lectio
+1. Lectio
 
 Počni polako i pažljivo čitati tekst. Kušaj svaki dio odabranog čitanja, u stalnom osluškivanju i iščekivanju “laganog, blagog glasa” koji će se pojaviti nad pojedinim riječima. Ne očekuj čudesna prosvjetljenja ni ushite. U “božanskom čitanju” Bog nas uči kako ćemo ga tražiti i slušati u šutnji. Poziva nas da ga otkrijemo već prisutnog. Neka pitanja mogu ti pomoći: Tko su likovi koji se pojavljuju u tekstu? Što oni rade, kako se odnose jedni prema drugima? Što govore?
 
-3. Meditatio
+1. Meditatio
 
 Prepoznatu riječ ili rečenicu polako usvoji. Zapamti je i polagano ponavljaj, tako da uđe u dijalog s tvojim unutarnjim svijetom misli, briga i sjećanja. Ne moraš se bojati rastresenosti. Misli i sjećanja jednostavno su dio tvoga bića, i ako se pojavljuju za vrijeme “božanskog čitanja”, znači da i oni žele da ih predaš Bogu, zajedno s ostatkom tvog unutarnjeg bića. Sjeti se primjera Djevice Marije, koja je svoje uspomene i razmišljanja pretvarala u molitvu (Lk 2,19. 51). Neka te ovo unutarnje poniranje uvede u dijalog s Bogom. Pitanja koja ti mogu pomoći: Što kaže ovaj tekst o Božjoj ljubavi prema čovjeku? Što govori meni, koliko mi je važan?
 
-4. Oratio
+1. Oratio
 
 Govori s Bogom, pričaj mu. Uopće nije važno upotrebljavaš li riječi, misli ili slike. Komuniciraj s Bogom kao s nekim za koga znaš da te voli i prihvaća. I predaj mu ono što si otkrio u sebi za vrijeme meditacije. Ova je molitva shvaćena kao dijalog s Bogom, ali i kao prinos Bogu. Kao što svećenik u euharistiji prinosi kruh i vino, tako smo pozvani u »božanskom čitanju« prinijeti Gospodinu svoja najbolnija iskustva i razmišljanja, da nas njegova blagoslovljena riječ preobrazi i iscijeli. Pokušaj zapisati što osjećaš pri susretu s odlomkom koji si upravo razmatrao.
 
-5. Contemplatio
+1. Contemplatio
 
 Jednostavno otpočini u Božjem zagrljaju. I kad te pozove da se ponovno vratiš na iščitavanje njegove riječi ili na unutarnji dijalog s njim - odazovi se. Uči se upotrebljavati korisne riječi i odbacivati suvišne. Raduj se s uvjerenjem da je Bog s tobom u riječi i šutnji. U kontemplaciji se okrećemo od aktivizma i učimo se jednostavno biti, tj. postojati u prisutnosti dobroga Oca nebeskog.
 Ponekad ćeš se vraćati na čitanje teksta, bilo da okusiš smisao riječi ili rečenice koju ti je Gospodin namijenio, bilo da tražiš novu riječ nad kojom ćeš ponirati u Božju prisutnost. Dogodi se da jedna riječ ispuni sve vrijeme namijenjeno “božanskom čitanju”. To nije važno. Bitno je da u tom vremenu budeš sa svojim Bogom razmatrajući njegovu riječ.
@@ -334,7 +335,7 @@ Amen.
 
 Oče nebeski, molim Te u ime i po krvi Isusa Krista da oslobodiš od Sotonskog zavođenja, svoje stvorenje (ime osobe) koje neprijatelj želi odvojiti od Tebe. Molim Te, Gospodine Isuse, da staviš svoju trnovu krunu oko (ime) i privuci ga (je) svome Presvetom Srcu pod svoj plašt ljubavi. Marijo naša Majko, molimo tvoj zagovor i zaštitu kod tvoga Božanskog sina za njega (nju).
 
-Amen. 
+Amen.
 
 [[#Moje molitve|Link na vrh]]
 

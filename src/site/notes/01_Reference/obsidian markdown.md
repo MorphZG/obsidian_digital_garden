@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-reference/obsidian-markdown/","title":"Obsidian markdown","tags":["obsidian","markdown"]}
+{"date":null,"dg-publish":true,"source":"documentation","status":"detailed","tags":["obsidian","markdown"],"title":"Obsidian markdown","type":"reference","URL":"https://help.obsidian.md/Home","permalink":"/01-reference/obsidian-markdown/","dgPassFrontmatter":true}
 ---
 
 
@@ -21,7 +21,6 @@ Obsidian uses wiki style linking for internal links between notes in a local vau
 
 > Obsidian will automatically update the links if you move files from one location to another
 
-
 ```wiki
 wiki style link for internal linking:
 [[link_to_file | alternative diplay text]]
@@ -33,10 +32,10 @@ external link:
 [display_text](http://link_to_webpage.com)
 [search engine](https://google.com)
 ```
-> [!faq]- Replacing the white space in URL's
->  If your URL (Uniform Resource Locator) contains white space, you must esace them by replacing them with `%20` for link to work. The default character set in HTML5 is UTF-8 where space character is represented as `%20`.
->  UTF-8 is a character encoding system that represents text using a variable number of bytes (1 to 4) per character. It's a widely used encoding for the Unicode Standard, offering compatibility with ASCII and the ability to represent a vast range of characters from various writing systems. This makes it the dominant encoding for the World Wide Web and many other applications. 
 
+> [!faq]- Replacing the white space in URL's
+> If your URL (Uniform Resource Locator) contains white space, you must esace them by replacing them with `%20` for link to work. The default character set in HTML5 is UTF-8 where space character is represented as `%20`.
+> UTF-8 is a character encoding system that represents text using a variable number of bytes (1 to 4) per character. It's a widely used encoding for the Unicode Standard, offering compatibility with ASCII and the ability to represent a vast range of characters from various writing systems. This makes it the dominant encoding for the World Wide Web and many other applications.
 
 ## Embed files
 
@@ -73,7 +72,6 @@ Open the double brackets and start typing the note name, when you find the note 
 You can add footnotes[^1] using the following syntax:
 This is a named[^named] footnote.
 
-
 ```
     Syntax:
   
@@ -89,15 +87,6 @@ This is a simple footnote[^1].
     IMPORTANT !
 Footnote reference text must have an empty line before and after, switch to edit mode and take a look just below this block
 ```
-
-[^named]: While in reading mode you see numbers,
-  if you switch to edit mode you will see
-  it is actually a named footnote.
-  If you want reference text to span across
-  multiple lines, line must start with
-  two white spaces.
-
-[^1]: This is a footnote. It is positioned just below the following block. In reading mode it will be visible at the bottom of a page. If you switch to edit, you can see the syntax and it's original location (which can also be at the bottom of the page if you wish to do so). To make it work, reference text must have an empty line before and after.
 
 ## Task list
 
@@ -169,3 +158,10 @@ After a callout keyword between brackets, you can add custom title separated by 
 - [youtube.com/playlist](https://www.youtube.com/playlist?list=PLrI2d6gSaO9BCd8HjgkSY1yd50nyfxYpN) - "Get Started with Obsidian" by Effective
 - [youtube.com/channel](https://www.youtube.com/@linkingyourthinking) - Linking Your Thinking with Nick Milo
 
+[^1]: This is a footnote. It is positioned just below the following block. In reading mode it will be visible at the bottom of a page. If you switch to edit, you can see the syntax and it's original location (which can also be at the bottom of the page if you wish to do so). To make it work, reference text must have an empty line before and after.
+[^named]: While in reading mode you see numbers,
+  if you switch to edit mode you will see
+  it is actually a named footnote.
+  If you want reference text to span across
+  multiple lines, line must start with
+  two white spaces.

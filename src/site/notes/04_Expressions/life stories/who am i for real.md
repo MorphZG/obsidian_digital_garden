@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-expressions/life-stories/who-am-i-for-real/","title":"Who am i for real","tags":["personal","writings"]}
+{"date":"2024-04-12","dg-publish":true,"source":null,"status":"useful","tags":["personal","writings"],"title":"Who am i for real","type":"blog_post","URL":"https://dev.to/morphzg/who-am-i-for-real-13bo","permalink":"/04-expressions/life-stories/who-am-i-for-real/","dgPassFrontmatter":true}
 ---
 
 

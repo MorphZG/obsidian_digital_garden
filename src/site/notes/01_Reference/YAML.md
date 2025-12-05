@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-reference/yaml/","title":"YAML Ain’t Markup Language","tags":["configuration","yaml"]}
+{"date":null,"dg-publish":true,"source":null,"status":"useful","tags":["configuration","yaml"],"title":"YAML Ain’t Markup Language","type":"reference","URL":null,"permalink":"/01-reference/yaml/","dgPassFrontmatter":true}
 ---
 
 
@@ -144,7 +144,7 @@ folded_block: >
   Paragraphs are separated by blank lines.
 ```
 
->In YAML, scalar values are simple, indivisible data values that can be represented in different ways. They include basic data types like strings, numbers, and booleans. Scalars are the most basic form of data you can work with in YAML, as opposed to more complex data structures like lists or maps. These include: Strings, Numbers, Boolean, Null, Date and Time,
+> In YAML, scalar values are simple, indivisible data values that can be represented in different ways. They include basic data types like strings, numbers, and booleans. Scalars are the most basic form of data you can work with in YAML, as opposed to more complex data structures like lists or maps. These include: Strings, Numbers, Boolean, Null, Date and Time,
 
 ```yaml
 scalar_values:

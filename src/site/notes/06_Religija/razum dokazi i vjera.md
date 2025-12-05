@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-religija/razum-dokazi-i-vjera/","title":"Razum, Dokazi i Vjera: Od Ateizma do Katoličke Teologije","tags":["religion","writings"]}
+{"author":"Zoran Topic","date":"2025-10-04","dg-publish":true,"source":"[[06_Religija/reason evidence and faith|reason evidence and faith]]","status":"useful","tags":["religion","writings"],"title":"Razum, Dokazi i Vjera: Od Ateizma do Katoličke Teologije","type":"blog_post","URL":null,"permalink":"/06-religija/razum-dokazi-i-vjera/","dgPassFrontmatter":true}
 ---
 
 

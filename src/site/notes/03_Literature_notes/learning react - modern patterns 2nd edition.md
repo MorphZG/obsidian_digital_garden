@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-literature-notes/learning-react-modern-patterns-2nd-edition/","title":"Learning React","tags":["webdev","react","javascript"]}
+{"author":"Alex Banks, Eve Porcello","date":"2025-02-07","dg-publish":true,"source":"book","status":"draft","tags":["webdev","react","javascript"],"title":"Learning React","type":"literature_note","URL":"https://www.goodreads.com/book/show/80721783-learning-react","permalink":"/03-literature-notes/learning-react-modern-patterns-2nd-edition/","dgPassFrontmatter":true}
 ---
 
 

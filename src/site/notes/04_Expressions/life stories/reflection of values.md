@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-expressions/life-stories/reflection-of-values/","title":"Reflection of values","tags":["personal","short","writings"]}
+{"date":"2024-12-03","dg-publish":true,"source":"","status":"useful","tags":["personal","short","writings"],"title":"Reflection of values","type":"blog_post","URL":"https://dev.to/morphzg/relfection-of-values-5agh","permalink":"/04-expressions/life-stories/reflection-of-values/","dgPassFrontmatter":true}
 ---
 
 

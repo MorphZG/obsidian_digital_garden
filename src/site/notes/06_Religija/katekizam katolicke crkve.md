@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-religija/katekizam-katolicke-crkve/","title":"Katekizam Katolicke Crkve","tags":["religion","scripture"]}
+{"author":"Hrvatska Biskupska Konferencija","date":"2025-11-27","dg-publish":true,"source":"Catechismus Catholicae Ecclesiae","status":"draft","tags":["religion","scripture"],"title":"Katekizam Katolicke Crkve","type":"spiritual_literature","URL":"https://knjizara.glas-koncila.hr/katekizam-katolicke-crkve-dzepno-izdanje.html","permalink":"/06-religija/katekizam-katolicke-crkve/","dgPassFrontmatter":true}
 ---
 
 

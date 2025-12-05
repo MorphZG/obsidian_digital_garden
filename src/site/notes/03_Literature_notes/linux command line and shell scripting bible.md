@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-literature-notes/linux-command-line-and-shell-scripting-bible/","title":"Linux Command Line and Shell Scripting Bible","tags":["linux","scripting","bash"]}
+{"author":"Richard Blum, Christine Bresnahan","date":"2025-02-11","dg-publish":true,"source":"book","status":"draft","tags":["linux","scripting","bash"],"title":"Linux Command Line and Shell Scripting Bible","type":"literature_note","URL":"https://www.wiley.com/en-mx/Linux+Command+Line+and+Shell+Scripting+Bible%2C+4th+Edition-p-9781119700913","permalink":"/03-literature-notes/linux-command-line-and-shell-scripting-bible/","dgPassFrontmatter":true}
 ---
 
 

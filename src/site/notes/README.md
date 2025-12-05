@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","title":"Readme: Initial setup","tags":["github","index","obsidian"]}
+{"date":"2025-01-30","dg-publish":true,"source":null,"status":"detailed","tags":["github","index","obsidian"],"title":"Readme: Initial setup","type":"index","URL":"https://github.com/MorphZG/obsidian_digital_garden.git","permalink":"/readme/","dgPassFrontmatter":true}
 ---
 
 

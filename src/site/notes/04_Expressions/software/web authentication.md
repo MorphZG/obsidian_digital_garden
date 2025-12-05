@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-expressions/software/web-authentication/","title":"Beyond the login screen: Safeguarding your web application","tags":["security","network","javascript"]}
+{"date":"2024-04-12","dg-publish":true,"source":null,"status":"","tags":["security","network","javascript"],"title":"Beyond the login screen: Safeguarding your web application","type":"blog_post","URL":"https://dev.to/morphzg/beyond-the-login-screen-30j5","permalink":"/04-expressions/software/web-authentication/","dgPassFrontmatter":true}
 ---
 
 
@@ -75,7 +75,7 @@ In conclusion, securing your web applications requires a multifaceted approach e
 
 Now, let's dive into implementing some of these security measures in Node.js:
 
->Define User as a mongoose model
+> Define User as a mongoose model
 
 ```javascript
 const mongoose = require('mongoose');
@@ -95,7 +95,7 @@ const User = mongoose.model('User', userSchema);
 module.exports = User;
 ```
 
->Salt the password, hash everything together and repeat 10 times
+> Salt the password, hash everything together and repeat 10 times
 
 ```javascript
 const bcrypt = require('bcrypt');
@@ -113,7 +113,7 @@ async function comparePasswords(plainPassword, hashedPassword) {
 
 ```
 
->User Authentication with Passport.js
+> User Authentication with Passport.js
 
 ```javascript
 passport.use(new LocalStrategy(async (username, password, done) => {
@@ -145,7 +145,7 @@ passport.deserializeUser(async (id, done) => {
 
 ```
 
->OAuth Integration with Passport.js
+> OAuth Integration with Passport.js
 
 ```javascript
 const passport = require('passport');

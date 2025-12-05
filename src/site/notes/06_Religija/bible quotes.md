@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-religija/bible-quotes/","title":"Bible quotes","tags":["religion","scripture"]}
+{"date":"2025-09-17","dg-publish":true,"source":"book","status":"draft","tags":["religion","scripture"],"title":"Bible quotes","type":"spiritual_literature","URL":"https://biblija.ks.hr","permalink":"/06-religija/bible-quotes/","dgPassFrontmatter":true}
 ---
 
 

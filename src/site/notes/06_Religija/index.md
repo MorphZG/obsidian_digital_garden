@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-religija/index/","title":"I am a Christian","tags":["religion","writings"]}
+{"author":"Zoran Topic","date":"2025-09-15","dg-publish":true,"source":"","status":"detailed","tags":["religion","writings"],"title":"I am a Christian","type":"index","URL":null,"permalink":"/06-religija/index/","dgPassFrontmatter":true}
 ---
 
 
@@ -73,14 +73,14 @@ Skup mojih privatnih tekstova i razmisljanja. Vrlo cesto trazim odgovore na neka
 > I uzašao na nebo: sjedi s desne Ocu.
 > I opet će doći u slavi suditi žive i mrtve,
 > i njegovu kraljevstvu neće biti kraja.
-> 
+>
 > I u Duha Svetoga, Gospodina i životvorca; koji izlazi od Oca i Sina.
 > Koji se s Ocem i Sinom skupa časti i zajedno slavi;
 > koji je govorio po prorocima.
 > I u jednu svetu katoličku i apostolsku Crkvu.
 > Ispovijedam jedno krštenje za oproštenje grijeha.
 > I iščekujem uskrsnuće mrtvih. I život budućega vijeka.
-> 
+>
 > Amen.
 
 ---
@@ -288,7 +288,6 @@ We already live in a reality where you cannot trust anything you see on the scre
 - [bibleref.com](https://www.bibleref.com/) *
 - [biblegateway.com](https://www.biblegateway.com)
 - [bible.com](https://www.bible.com/)
-
 
 **kršćanski portali**
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-reference/nvidia-driver-fix/","title":"Display issue after Nvidia driver update","tags":["issue","nvidia","ubuntu"]}
+{"date":"2025-07-20","dg-publish":true,"source":"web","status":"useful","tags":["issue","nvidia","ubuntu"],"title":"Display issue after Nvidia driver update","type":"reference","URL":"","permalink":"/01-reference/nvidia-driver-fix/","dgPassFrontmatter":true}
 ---
 
 
@@ -7,8 +7,8 @@
 
 I have repeatedly encountered display resolution issues on my Ubuntu machine, no matter which Ubuntu version i have currently installed, and i had many different versions. There is one thing in common in any of those: **Old version of Nvidia display driver is not removed properly**. Every time i resolve the issue by following both wrong and correct instructions i was very quick to forget both the cause and solution. Now i decided to write it down for my future self as a reference.
 
->[!warning]+
->_Try not to forget this note exists._
+> [!warning]+
+> _Try not to forget this note exists._
 
 This guide provides step-by-step instructions to completely remove old Nvidia drivers and install the latest recommended version. This process can resolve common issues like incorrect resolution or driver conflicts after an update.
 

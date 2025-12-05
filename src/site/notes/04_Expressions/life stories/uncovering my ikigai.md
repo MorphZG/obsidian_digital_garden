@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-expressions/life-stories/uncovering-my-ikigai/","title":"Uncovering my ikigai","tags":["personal","career"]}
+{"date":"2023-10-13","dg-publish":true,"source":"","status":"useful","tags":["personal","career"],"title":"Uncovering my ikigai","type":"blog_post","URL":"https://dev.to/morphzg/uncovering-ikigai-my-journey-4fio","permalink":"/04-expressions/life-stories/uncovering-my-ikigai/","dgPassFrontmatter":true}
 ---
 
 

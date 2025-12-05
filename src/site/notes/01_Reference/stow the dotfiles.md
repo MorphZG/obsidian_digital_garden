@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-reference/stow-the-dotfiles/","title":"Understanding stow","tags":["linux","utility","configuration"]}
+{"date":null,"dg-publish":true,"source":null,"status":"useful","tags":["linux","utility","configuration"],"title":"Understanding stow","type":"reference","URL":null,"permalink":"/01-reference/stow-the-dotfiles/","dgPassFrontmatter":true}
 ---
 
 
@@ -37,7 +37,7 @@ $HOME           --->    (target-directory)
             .gitconfig
 ```
 
->By default stow ignores some files and directories but you can set your own rules by creating the `.stow-local-ignore` file
+> By default stow ignores some files and directories but you can set your own rules by creating the `.stow-local-ignore` file
 
 ## Common Use Cases
 
@@ -55,17 +55,20 @@ Other uses include:
 GNU Stow is available in the package managers of most Linux distributions and on macOS via Homebrew.
 
 *   **On Debian/Ubuntu-based systems:**
-    ```bash
+
+	```bash
     sudo apt install stow
     ```
 
 *   **On Arch Linux:**
-    ```bash
+
+	```bash
     sudo pacman -S stow
     ```
 
 *   **On macOS (with Homebrew):**
-    ```bash
+
+	```bash
     brew install stow
     ```
 
@@ -87,17 +90,20 @@ A best practice is to keep configurations for different applications in separate
 Let's say you want to manage your `.bashrc` file.
 
 1.  **Create a package directory:** Inside your `.dotfiles` directory, create a directory for your bash configuration.
-    ```bash
+
+	```bash
     mkdir -p ~/.dotfiles/bash
     ```
 
 2.  **Move your configuration file:** Move your `.bashrc` file into this new directory.
-    ```bash
+
+	```bash
     mv ~/.bashrc ~/.dotfiles/bash/
     ```
 
 3.  **Stow the package:** From within your `.dotfiles` directory, run the `stow` command.
-    ```bash
+
+	```bash
     cd ~/.dotfiles
     stow bash
     ```
@@ -124,13 +130,15 @@ When you run `stow nvim` from `~/.dotfiles`, Stow will create the necessary dire
 The real power of this approach comes when you combine it with Git.
 
 1.  **Initialize a Git repository:** In your `.dotfiles` directory, initialize a new Git repository.
-    ```bash
+
+	```bash
     cd ~/.dotfiles
     git init
     ```
 
 2.  **Add and commit your files:**
-    ```bash
+
+	```bash
     git add .
     git commit -m "Initial commit of my dotfiles"
     ```
@@ -153,4 +161,3 @@ Stow will ignore certain files by default, such as `.git`. You can create a `.st
 - [jakewiesler.com/blogpost](https://www.jakewiesler.com/blog/managing-dotfiles) Understanding stow
 - [youtube.com/video](https://www.youtube.com/watch?v=CFzEuBGPPPg) "Sync your .dotfiles with git and GNU Stow like a pro" by DevInsideYou
 - [youtube.com/video](https://www.youtube.com/watch?v=CxAT1u8G7is) "Give your dotfiles a home with GNU stow" by System crafters
-

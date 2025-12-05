@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-reference/git-reference/","title":"Comprehensive Git and GitHub Reference","tags":["devops","utility","linux"]}
+{"date":"2025-12-04","dg-publish":true,"source":null,"status":"detailed","tags":["devops","utility","linux"],"title":"Comprehensive Git and GitHub Reference","type":"reference","URL":"","permalink":"/01-reference/git-reference/","dgPassFrontmatter":true}
 ---
 
 
 # Comprehensive Git and GitHub Reference
 
 ## Table of Contents
+
 - [[#Git Basics]]
 - [[#Configuring Git]]
 - [[#Working with Repositories]]
@@ -23,9 +24,11 @@
 ---
 
 ## Git Basics
+
 Git is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
 
 ### Key Concepts
+
 - **Repository (Repo):** A directory where your project's files and their history are stored.
 - **Commit:** A snapshot of your repository at a specific point in time.
 - **Branch:** A separate line of development. The default branch is `main` (or `master`).
@@ -39,6 +42,7 @@ Git is a distributed version control system for tracking changes in source code 
 ---
 
 ## Configuring Git
+
 Proper configuration is essential for using Git effectively.
 
 ```bash
@@ -83,6 +87,7 @@ git status --ignored
 ---
 
 ## Staging and Committing
+
 Prepare and save your changes to the repository's history.
 
 ```bash
@@ -117,6 +122,7 @@ git rm --cached <filename>
 ---
 
 ## Branching and Merging
+
 Manage parallel lines of development and integrate them.
 
 ```bash
@@ -155,6 +161,7 @@ git commit
 ---
 
 ## Undoing Changes
+
 Correct mistakes and revert unwanted changes.
 
 ```bash
@@ -180,6 +187,7 @@ git restore --source=<commit-hash> <file>
 ---
 
 ## Working with Remotes
+
 Collaborate with others by sharing your changes.
 
 ```bash
@@ -210,6 +218,7 @@ git push -u <remote-name> <branch-name>
 ## Advanced Git
 
 ### Rebasing
+
 Rebasing is an alternative to merging for integrating changes from one branch to another. It rewrites the commit history to create a linear sequence of commits.
 
 ```bash
@@ -227,6 +236,7 @@ git rebase --abort
 ```
 
 ### Cherry-Picking
+
 Apply a specific commit from one branch to another.
 
 ```bash
@@ -235,6 +245,7 @@ git cherry-pick <commit-hash>
 ```
 
 ### Stashing
+
 Temporarily save changes that are not ready to be committed.
 
 ```bash
@@ -257,6 +268,7 @@ git stash clear
 ---
 
 ## Git Workflows
+
 Different strategies for managing branches and collaboration.
 
 - **GitFlow:** A robust framework using feature branches, develop, release, hotfix, and main branches. Good for projects with scheduled releases.
@@ -266,6 +278,7 @@ Different strategies for managing branches and collaboration.
 ---
 
 ## GitHub Collaboration
+
 Leveraging GitHub for team-based development.
 
 - **Forking:** Create a personal copy of a repository on GitHub.
@@ -310,6 +323,7 @@ git pull upstream main
 ---
 
 ## Tips and Best Practices
+
 - **Write Clear Commit Messages:** Follow a convention (e.g., start with a verb, keep the subject line short).
 - **Commit Early and Often:** Make small, logical commits.
 - **Use `.gitignore`:** Keep your repository clean by ignoring generated files, logs, and dependencies.
