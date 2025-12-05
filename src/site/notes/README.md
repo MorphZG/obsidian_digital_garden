@@ -1,0 +1,121 @@
+---
+{"dg-publish":true,"permalink":"/readme/","title":"Obsidian notes","tags":["github","index","obsidian"]}
+---
+
+
+# Knowledge base, secret expression room and inspirational texts
+
+Welcome to my **Obsidian vault**, a personal knowledge base containing simple Markdown notes. My favorite type of text files. Regular text files are styled using simple syntax you can learn in a day. Software like web browsers will render the styled text but even without the ability to render the markdown syntax you can view the file in any text editor and still have very clear and readable file even without styling.  
+
+This repository is both my private workspace and a public experiment in sharing knowledge openly in a form of **digital garden**
+
+---
+
+## Repository Description
+
+- Related notes are linked together with wiki style inbound links, forming a web of connected ideas. Using the Obsidian software you can utilize plugins to visualise the relations between the notes.
+- Each file includes **YAML frontmatter** at the top, storing metadata that helps organize and query content.
+- Markdown keeps everything lightweight and portable — readable in any text editor, yet powerful when rendered with style options.
+
+The primary goal is to transform fleeting thoughts, practical knowledge, and personal research into a structured, evolving body of content. Over time, this grows into a **Digital Garden**: a static website where ideas are published, refined, and shared.
+
+My guiding principle is simple:  
+- **Minimize cognitive load on structure**. When writing notes there is no need to waste my time on how to structure or style the note, how many directories i need and which note goes into which directory. You can use my workflow rules and adapt it to your liking if you wish.
+- **Maximize focus on content creation**. Let the workflow evolve naturally over time. No need to stick to same rules forever.
+
+---
+
+## Topics Covered
+
+This vault reflects my interests and ongoing explorations:
+- Linux, CLI tools, and efficient workflows  
+- Web development and different personal projec and ideas.
+- Thoughts i found interesting to note down.
+- Comparative religion, theology, biblical history and philosophy
+- Notes taken from different literature and books.
+
+---
+
+## Getting Started
+
+This vault is best navigated and managed using the **Obsidian** application.
+
+### Installation
+
+1. **Clone the Repository:**
+   ```bash
+   git clone --depth 1 https://github.com/MorphZG/obsidian_vault.git
+   ```
+2. **Download Obsidian:**
+   Install the application for Linux, macOS, or Windows.  
+   * [Download Obsidian](https://obsidian.md/download)
+3. **Open the Vault:**
+   In Obsidian, select **"Open folder as vault"** and point it to the cloned directory.
+
+>There is alternative branch for android devices - `mobile`  contains commits from mobile device. `mobile` branch should be the only active branch when working on the mobile device.
+
+---
+
+## Online Digital Garden
+
+My focus is on building the local vault, but I also experiment with publishing it online as a **Digital Garden**.  
+- Configured for easy publishing via the [Digital Garden plugin](https://dg-docs.ole.dev).  
+- Exploring static site generators like **Astro.js** and **Gatsby**.
+
+> **Important Publishing Note**  
+> - The Digital Garden plugin requires a dedicated GitHub Token.  
+> - Always create a token with restricted permissions.  
+> - Consider using a local copy of the vault before publishing, since publishing adds metadata to notes.
+
+For a starting point, check out the [[_workflow\|workflow rules]] and [[_dataview_database/index\|dataview index]]. You can also search for notes with `index` tag or `index` type property.
+
+---
+
+## Vault Structure & Organization
+
+Notes move through a rank system.
+
+| Directory | Purpose | Content Type |
+| :--- | :--- | :--- |
+| **00_Fleeting_inbox** | Fresh ideas, quick thoughts, WIP. Reviewed weekly. | Fleeting notes |
+| **01_Reference** | Practical knowledge and verifiable facts. | Guides, reminders |
+| **02_Ideas_and_projects** | Personal ideas and project management. | Concepts, drafts |
+| **03_Literature_notes** | Notes on external sources (articles, books, blogs). | Research materials |
+| **04_Expressions** | Finalized notes ready for publishing. | Articles, blog posts |
+| **05_Archive** | Deprecated or failed attempts. | Archived content |
+| **06_Religion** | Faith‑related notes and reflections. | Theology, spiritual growth |
+
+> [!NOTE] **Underscores and private resources**  
+> Directories prefixed with `_` (e.g., `_assets`, `_templates`, `_clippings`) are system‑like resources.  
+> They improve clarity but should be **excluded from public publishing**.
+
+---
+
+## Key Plugins Used
+
+This vault leverages several Obsidian plugins to enhance functionality. You don't have to install any of those but i would recommend `Dataview` as essential and a must have. I have a directory `_dataview_database`, it holds index notes with different lists generated by `Dataview`. You can query whole vault for notes holding required metadata like list of all notes where status=draft. Check it out yourself.
+
+| Plugin | Core Functionality | Learn More |
+| :--- | :--- | :--- |
+| **Dataview** | Query notes like a database; create dynamic lists and tables. Must have. | [Dataview Docs](https://github.com/blacksmithgu/obsidian-dataview) |
+| **Templater** | Automate note creation with templates and JavaScript. | [Templater Docs](https://silentvoid13.github.io/Templater/) |
+| **Excalidraw** | Sketch diagrams and mind maps directly in Obsidian. | [Excalidraw](https://github.com/excalidraw/excalidraw) |
+| **Digital Garden** | Publish notes online with minimal setup. | [Digital Garden Docs](https://dg-docs.ole.dev) |
+
+---
+
+## Contribution
+
+This is a personal knowledge vault, but inspiration and feedback are welcome!  
+- Open issues for suggestions  
+- Share ideas or workflows  
+- Fork the repo if you’d like to adapt the structure for your own vault  
+
+## Start with these files:
+
+You just read main `README.md` file that is used by the [Github](https://www.github.com) to display sort of presentation and description of a repository. But what now? If you installed the Obsidian and the plugins i consider essential, not required, than you can start by reading or at least quickly scanning the following files.
+
+- [[start here\|start here]] - Personal note with a short story that will introduce you to the rest of the content
+- [[_workflow\|_workflow]] - The rules i have set to keep my focus on the content. I don't have to think in which directory i will put a file or which tags and other metadata i should assign to a note. Content is the life force of the written word.
+- [[_dataview_database/properties - status property\|dataview index note]] - Explanation of status property. You will find a list of all notes sorted by status but also a set of link to other such lists. List with all available tags, list with all available types, all available source values... and so on. This is an `dataview` index note
+- [[_dataview_database/index\|draft status]] - Notes having the draft status. If you are looking for notes that need some attention you will find them here.
