@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dataview-database/properties-type-values/","title":"properties - type values","tags":["dataview","index"],"created":"2025-12-05T03:27:50.833+01:00"}
+{"dg-publish":true,"permalink":"/_dataview_database/properties - type values/","title":"properties - type values","tags":["dataview","index"],"created":"2025-12-05T03:27:50.833+01:00"}
 ---
 
 

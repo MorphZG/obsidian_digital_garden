@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-expressions/life-stories/who-am-i-for-real/","title":"Who am i for real","tags":["personal","writings"],"created":"2025-12-05T03:27:50.839+01:00"}
+{"dg-publish":true,"permalink":"/04_Expressions/life stories/who am i for real/","title":"Who am i for real","tags":["personal","writings"],"created":"2025-12-05T03:27:50.839+01:00"}
 ---
 
 

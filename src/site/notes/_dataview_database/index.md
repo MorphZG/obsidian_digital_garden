@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dataview-database/index/","title":"index","tags":["dataview","index"],"created":"2025-12-05T03:27:50.834+01:00"}
+{"dg-publish":true,"permalink":"/_dataview_database/index/","title":"index","tags":["dataview","index"],"created":"2025-12-05T03:27:50.834+01:00"}
 ---
 
 
@@ -18,11 +18,11 @@ _Switch to edit mode to see the actual query and the comments explaining the syn
 | ------------------------------------------------------------------------------------------------------------------------ | ------ | ------------------ |
 | [[03_Literature_notes/linux command line and shell scripting bible\|linux command line and shell scripting bible]]    | draft  | December 05, 2025  |
 | [[03_Literature_notes/the science of self-discipline\|the science of self-discipline]]                                | draft  | December 05, 2025  |
-| [[03_Literature_notes/react key concepts - an in-depth guide\|react key concepts - an in-depth guide]]                | draft  | December 05, 2025  |
-| [[03_Literature_notes/McMafia\|McMafia]]                                                                              | draft  | December 05, 2025  |
 | [[03_Literature_notes/learning typecript\|learning typecript]]                                                        | draft  | December 05, 2025  |
+| [[03_Literature_notes/react key concepts - an in-depth guide\|react key concepts - an in-depth guide]]                | draft  | December 05, 2025  |
 | [[03_Literature_notes/grokking web application security\|grokking web application security]]                          | draft  | December 05, 2025  |
 | [[03_Literature_notes/domovinski rat - rat prije rata\|domovinski rat - rat prije rata]]                              | draft  | December 05, 2025  |
+| [[03_Literature_notes/McMafia\|McMafia]]                                                                              | draft  | December 05, 2025  |
 | [[00_Fleeting_inbox/Docker\|Docker]]                                                                                  | draft  | December 05, 2025  |
 | [[00_Fleeting_inbox/freelancing\|freelancing]]                                                                        | draft  | December 05, 2025  |
 | [[00_Fleeting_inbox/git workflows\|git workflows]]                                                                    | draft  | December 05, 2025  |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dataview-database/properties-source-values/","title":"properties - source values","tags":["dataview","index"],"created":"2025-12-05T03:27:50.834+01:00"}
+{"dg-publish":true,"permalink":"/_dataview_database/properties - source values/","title":"properties - source values","tags":["dataview","index"],"created":"2025-12-05T03:27:50.834+01:00"}
 ---
 
 

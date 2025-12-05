@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-reference/job-interview-preparation/","title":"Job interview","tags":["career","personal"],"created":"2025-12-05T03:27:51.078+01:00"}
+{"dg-publish":true,"permalink":"/01_Reference/job interview preparation/","title":"Job interview","tags":["career","personal"],"created":"2025-12-05T03:27:51.078+01:00"}
 ---
 
 

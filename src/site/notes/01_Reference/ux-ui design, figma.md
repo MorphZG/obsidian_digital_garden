@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-reference/ux-ui-design-figma/","title":"Design 101 Crash Course: Learn UX/UI Design, Figma","tags":["design","UI-UX"],"created":"2025-12-05T03:27:51.078+01:00"}
+{"dg-publish":true,"permalink":"/01_Reference/ux-ui design, figma/","title":"Design 101 Crash Course: Learn UX/UI Design, Figma","tags":["design","UI-UX"],"created":"2025-12-05T03:27:51.078+01:00"}
 ---
 
 

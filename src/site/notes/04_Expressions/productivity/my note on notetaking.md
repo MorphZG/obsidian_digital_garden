@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-expressions/productivity/my-note-on-notetaking/","title":"Note Taking as a Learning Tool","tags":["notes","productivity","idea"],"created":"2025-12-05T03:27:50.840+01:00"}
+{"dg-publish":true,"permalink":"/04_Expressions/productivity/my note on notetaking/","title":"Note Taking as a Learning Tool","tags":["notes","productivity","idea"],"created":"2025-12-05T03:27:50.840+01:00"}
 ---
 
 

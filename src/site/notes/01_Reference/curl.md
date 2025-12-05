@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-reference/curl/","title":"cURL","tags":["linux","network","utility"],"created":"2025-12-05T03:27:51.078+01:00"}
+{"dg-publish":true,"permalink":"/01_Reference/curl/","title":"cURL","tags":["linux","network","utility"],"created":"2025-12-05T03:27:51.078+01:00"}
 ---
 
 
