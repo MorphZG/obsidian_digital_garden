@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04_Expressions/software/web authentication/","title":"Beyond the login screen: Safeguarding your web application","tags":["security","network","javascript"]}
+{"dg-publish":true,"permalink":"/04-expressions/software/web-authentication/","title":"Beyond the login screen: Safeguarding your web application","tags":["security","network","javascript"]}
 ---
 
 

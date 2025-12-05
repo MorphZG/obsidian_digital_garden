@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_dataview_database/index/","title":"Dataview queries","tags":["dataview","index"]}
+{"dg-publish":true,"permalink":"/dataview-database/index/","title":"Dataview queries","tags":["dataview","index"]}
 ---
 
 
@@ -14,14 +14,20 @@ _Switch to edit mode to see the actual query and the comments explaining the syn
 
 | File                                                                                                                     | status | modified           |
 | ------------------------------------------------------------------------------------------------------------------------ | ------ | ------------------ |
+| [[03_Literature_notes/the science of self-discipline\|the science of self-discipline]]                                | draft  | December 05, 2025  |
+| [[03_Literature_notes/react key concepts - an in-depth guide\|react key concepts - an in-depth guide]]                | draft  | December 05, 2025  |
+| [[03_Literature_notes/McMafia\|McMafia]]                                                                              | draft  | December 05, 2025  |
+| [[03_Literature_notes/learning typecript\|learning typecript]]                                                        | draft  | December 05, 2025  |
+| [[03_Literature_notes/grokking web application security\|grokking web application security]]                          | draft  | December 05, 2025  |
+| [[03_Literature_notes/domovinski rat - rat prije rata\|domovinski rat - rat prije rata]]                              | draft  | December 05, 2025  |
 | [[00_Fleeting_inbox/Docker\|Docker]]                                                                                  | draft  | December 05, 2025  |
 | [[00_Fleeting_inbox/freelancing\|freelancing]]                                                                        | draft  | December 05, 2025  |
 | [[00_Fleeting_inbox/git workflows\|git workflows]]                                                                    | draft  | December 05, 2025  |
 | [[00_Fleeting_inbox/http and the web\|http and the web]]                                                              | draft  | December 05, 2025  |
 | [[00_Fleeting_inbox/interesting quotes\|interesting quotes]]                                                          | draft  | December 05, 2025  |
 | [[00_Fleeting_inbox/job hunting for junior devs\|job hunting for junior devs]]                                        | draft  | December 05, 2025  |
-| [[01_Reference/fzf\|fzf]]                                                                                             | draft  | December 05, 2025  |
 | [[01_Reference/curl\|curl]]                                                                                           | draft  | December 05, 2025  |
+| [[01_Reference/fzf\|fzf]]                                                                                             | draft  | December 05, 2025  |
 | [[01_Reference/google search\|google search]]                                                                         | draft  | December 05, 2025  |
 | [[01_Reference/javascript notes\|javascript notes]]                                                                   | draft  | December 05, 2025  |
 | [[01_Reference/react notes\|react notes]]                                                                             | draft  | December 05, 2025  |
@@ -34,13 +40,7 @@ _Switch to edit mode to see the actual query and the comments explaining the syn
 | [[02_Ideas_and_projects/projects/_dev_tools/LLM/bootstrap LLM environment\|bootstrap LLM environment]]                | draft  | December 05, 2025  |
 | [[02_Ideas_and_projects/projects/_dev_tools/LLM/instructions\|instructions]]                                          | draft  | December 05, 2025  |
 | [[02_Ideas_and_projects/projects/course_react/instructions\|instructions]]                                            | draft  | December 05, 2025  |
-| [[03_Literature_notes/McMafia\|McMafia]]                                                                              | draft  | December 05, 2025  |
-| [[03_Literature_notes/domovinski rat - rat prije rata\|domovinski rat - rat prije rata]]                              | draft  | December 05, 2025  |
-| [[03_Literature_notes/grokking web application security\|grokking web application security]]                          | draft  | December 05, 2025  |
 | [[03_Literature_notes/javascript - the definitive guide\|javascript - the definitive guide]]                          | draft  | December 05, 2025  |
-| [[03_Literature_notes/learning typecript\|learning typecript]]                                                        | draft  | December 05, 2025  |
-| [[03_Literature_notes/react key concepts - an in-depth guide\|react key concepts - an in-depth guide]]                | draft  | December 05, 2025  |
-| [[03_Literature_notes/the science of self-discipline\|the science of self-discipline]]                                | draft  | December 05, 2025  |
 | [[06_Religija/bible quotes\|bible quotes]]                                                                            | draft  | December 05, 2025  |
 | [[06_Religija/devotional_reading/god presence in the dark seasons of life\|god presence in the dark seasons of life]] | draft  | December 05, 2025  |
 | [[06_Religija/devotional_reading/nasljeduj krista\|nasljeduj krista]]                                                 | draft  | December 05, 2025  |

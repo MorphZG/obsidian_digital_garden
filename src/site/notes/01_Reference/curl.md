@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01_Reference/curl/","title":"cURL","tags":["linux","network","utility"]}
+{"dg-publish":true,"permalink":"/01-reference/curl/","title":"cURL","tags":["linux","network","utility"]}
 ---
 
 

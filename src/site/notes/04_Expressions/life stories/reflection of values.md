@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04_Expressions/life stories/reflection of values/","title":"Reflection of values","tags":["personal","short","writings"]}
+{"dg-publish":true,"permalink":"/04-expressions/life-stories/reflection-of-values/","title":"Reflection of values","tags":["personal","short","writings"]}
 ---
 
 

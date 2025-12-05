@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03_Literature_notes/books to read/","title":"Books to read","tags":["notes","reading","index"]}
+{"dg-publish":true,"permalink":"/03-literature-notes/books-to-read/","title":"Books to read","tags":["notes","reading","index"]}
 ---
 
 

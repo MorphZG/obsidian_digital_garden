@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01_Reference/javascript notes/","title":"Javascript notes","tags":["javascript","webdev","programming"]}
+{"dg-publish":true,"permalink":"/01-reference/javascript-notes/","title":"Javascript notes","tags":["javascript","webdev","programming"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03_Literature_notes/modern fullstack react projects/","title":"Modern Full-Stack React Projects","tags":["webdev","javascript","react"]}
+{"dg-publish":true,"permalink":"/03-literature-notes/modern-fullstack-react-projects/","title":"Modern Full-Stack React Projects","tags":["webdev","javascript","react"]}
 ---
 
 

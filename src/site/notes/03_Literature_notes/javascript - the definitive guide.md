@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03_Literature_notes/javascript - the definitive guide/","title":"Javascript - The definitive guide","tags":["webdev","javascript"]}
+{"dg-publish":true,"permalink":"/03-literature-notes/javascript-the-definitive-guide/","title":"Javascript - The definitive guide","tags":["webdev","javascript"]}
 ---
 
 

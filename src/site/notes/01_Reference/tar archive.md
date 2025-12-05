@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01_Reference/tar archive/","title":"Archives with Tar","tags":["linux","utility"]}
+{"dg-publish":true,"permalink":"/01-reference/tar-archive/","title":"Archives with Tar","tags":["linux","utility"]}
 ---
 
 

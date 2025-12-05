@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03_Literature_notes/how to take smart notes/","title":"How to take smart notes","tags":["productivity","writings"]}
+{"dg-publish":true,"permalink":"/03-literature-notes/how-to-take-smart-notes/","title":"How to take smart notes","tags":["productivity","writings"]}
 ---
 
 

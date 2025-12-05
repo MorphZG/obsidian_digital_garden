@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/README/","title":"Readme: Initial setup","tags":["github","index","obsidian"]}
+{"dg-publish":true,"permalink":"/readme/","title":"Readme: Initial setup","tags":["github","index","obsidian"]}
 ---
 
 

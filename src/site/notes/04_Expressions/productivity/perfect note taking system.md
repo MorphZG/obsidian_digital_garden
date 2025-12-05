@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04_Expressions/productivity/perfect note taking system/","title":"Perfect note taking system","tags":["notes","productivity","idea"]}
+{"dg-publish":true,"permalink":"/04-expressions/productivity/perfect-note-taking-system/","title":"Perfect note taking system","tags":["notes","productivity","idea"]}
 ---
 
 

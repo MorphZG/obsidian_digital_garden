@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01_Reference/git reference/","title":"Comprehensive Git and GitHub Reference","tags":["devops","utility","linux"]}
+{"dg-publish":true,"permalink":"/01-reference/git-reference/","title":"Comprehensive Git and GitHub Reference","tags":["devops","utility","linux"]}
 ---
 
 

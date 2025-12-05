@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04_Expressions/life stories/uncovering my ikigai/","title":"Uncovering my ikigai","tags":["personal","career"]}
+{"dg-publish":true,"permalink":"/04-expressions/life-stories/uncovering-my-ikigai/","title":"Uncovering my ikigai","tags":["personal","career"]}
 ---
 
 

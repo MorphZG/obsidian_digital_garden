@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06_Religija/todo/","title":"TODO index","tags":["index","religion"]}
+{"dg-publish":true,"permalink":"/06-religija/todo/","title":"TODO index","tags":["index","religion"]}
 ---
 
 

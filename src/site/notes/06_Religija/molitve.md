@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06_Religija/molitve/","title":"Moje molitve","tags":["religion","prayer"]}
+{"dg-publish":true,"permalink":"/06-religija/molitve/","title":"Moje molitve","tags":["religion","prayer"]}
 ---
 
 

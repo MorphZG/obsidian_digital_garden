@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06_Religija/katekizam katolicke crkve/","title":"Katekizam Katolicke Crkve","tags":["religion","scripture"]}
+{"dg-publish":true,"permalink":"/06-religija/katekizam-katolicke-crkve/","title":"Katekizam Katolicke Crkve","tags":["religion","scripture"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06_Religija/razum dokazi i vjera/","title":"Razum, Dokazi i Vjera: Od Ateizma do Katoličke Teologije","tags":["religion","writings"]}
+{"dg-publish":true,"permalink":"/06-religija/razum-dokazi-i-vjera/","title":"Razum, Dokazi i Vjera: Od Ateizma do Katoličke Teologije","tags":["religion","writings"]}
 ---
 
 

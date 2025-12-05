@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03_Literature_notes/building a second brain/","title":"Building a second brain","tags":["productivity"]}
+{"dg-publish":true,"permalink":"/03-literature-notes/building-a-second-brain/","title":"Building a second brain","tags":["productivity"]}
 ---
 
 

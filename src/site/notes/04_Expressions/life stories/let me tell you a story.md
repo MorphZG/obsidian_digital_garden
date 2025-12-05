@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04_Expressions/life stories/let me tell you a story/","title":"Let me tell you a story","tags":["personal","writings"]}
+{"dg-publish":true,"permalink":"/04-expressions/life-stories/let-me-tell-you-a-story/","title":"Let me tell you a story","tags":["personal","writings"]}
 ---
 
 

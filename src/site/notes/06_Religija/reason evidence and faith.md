@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06_Religija/reason evidence and faith/","title":"Reason, Evidence, and Faith: From Atheist Curiosity to Catholic Theology","tags":["religion","philosophy","writings"]}
+{"dg-publish":true,"permalink":"/06-religija/reason-evidence-and-faith/","title":"Reason, Evidence, and Faith: From Atheist Curiosity to Catholic Theology","tags":["religion","philosophy","writings"]}
 ---
 
 

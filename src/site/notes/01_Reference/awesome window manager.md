@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01_Reference/awesome window manager/","title":"Awesome window manager","tags":["window_manager","linux"]}
+{"dg-publish":true,"permalink":"/01-reference/awesome-window-manager/","title":"Awesome window manager","tags":["window_manager","linux"]}
 ---
 
 

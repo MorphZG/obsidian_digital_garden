@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_dataview_database/properties - available keys/","title":"List available properties","tags":["dataview","index"]}
+{"dg-publish":true,"permalink":"/dataview-database/properties-available-keys/","title":"List available properties","tags":["dataview","index"]}
 ---
 
 

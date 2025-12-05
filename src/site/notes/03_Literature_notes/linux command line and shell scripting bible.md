@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03_Literature_notes/linux command line and shell scripting bible/","title":"Linux Command Line and Shell Scripting Bible","tags":["linux","scripting","bash"]}
+{"dg-publish":true,"permalink":"/03-literature-notes/linux-command-line-and-shell-scripting-bible/","title":"Linux Command Line and Shell Scripting Bible","tags":["linux","scripting","bash"]}
 ---
 
 

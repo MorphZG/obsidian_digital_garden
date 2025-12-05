@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01_Reference/git rebase/","title":"How to Squash Your Last 4 Git Commits","tags":["devops","linux","utility"]}
+{"dg-publish":true,"permalink":"/01-reference/git-rebase/","title":"How to Squash Your Last 4 Git Commits","tags":["devops","linux","utility"]}
 ---
 
 

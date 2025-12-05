@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01_Reference/requirements file/","title":"Requirements file","tags":["python","programming"]}
+{"dg-publish":true,"permalink":"/01-reference/requirements-file/","title":"Requirements file","tags":["python","programming"]}
 ---
 
 

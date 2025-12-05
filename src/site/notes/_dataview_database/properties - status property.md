@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_dataview_database/properties - status property/","title":"Status property","tags":["dataview","index"]}
+{"dg-publish":true,"permalink":"/dataview-database/properties-status-property/","title":"Status property","tags":["dataview","index"]}
 ---
 
 
@@ -32,8 +32,8 @@ Notes still in a form of a placeholder or not not really useful. Provides zero v
 > | [[00_Fleeting_inbox/interesting quotes\|interesting quotes]]                                                          | draft  |
 > | [[00_Fleeting_inbox/job hunting for junior devs\|job hunting for junior devs]]                                        | draft  |
 > | [[00_Fleeting_inbox/neurotransmitters\|neurotransmitters]]                                                            | draft  |
-> | [[01_Reference/fzf\|fzf]]                                                                                             | draft  |
 > | [[01_Reference/curl\|curl]]                                                                                           | draft  |
+> | [[01_Reference/fzf\|fzf]]                                                                                             | draft  |
 > | [[01_Reference/google search\|google search]]                                                                         | draft  |
 > | [[01_Reference/javascript notes\|javascript notes]]                                                                   | draft  |
 > | [[01_Reference/react notes\|react notes]]                                                                             | draft  |
@@ -68,8 +68,8 @@ Notes still in a form of a placeholder or not not really useful. Provides zero v
 > | [[06_Religija/expressions/from logic to belief\|from logic to belief]]                                                | draft  |
 > | [[06_Religija/katekizam katolicke crkve\|katekizam katolicke crkve]]                                                  | draft  |
 > | [[06_Religija/todo\|todo]]                                                                                            | draft  |
-> | [[_templates/scripts_template\|scripts_template]]                                                                     | draft  |
 > | [[_scripts/_templater_docs\|_templater_docs]]                                                                         | draft  |
+> | [[_templates/scripts_template\|scripts_template]]                                                                     | draft  |
 > 
 { .block-language-dataview}
 
@@ -90,8 +90,8 @@ Notes providing enough value to be useful.
 > | [[01_Reference/YAML\|YAML]]                                                                       | useful |
 > | [[01_Reference/connect to android over ssh\|connect to android over ssh]]                         | useful |
 > | [[01_Reference/dataview\|dataview]]                                                               | useful |
-> | [[01_Reference/git rebase\|git rebase]]                                                           | useful |
 > | [[01_Reference/git bare repository\|git bare repository]]                                         | useful |
+> | [[01_Reference/git rebase\|git rebase]]                                                           | useful |
 > | [[01_Reference/job interview preparation\|job interview preparation]]                             | useful |
 > | [[01_Reference/nvidia driver fix\|nvidia driver fix]]                                             | useful |
 > | [[01_Reference/stow the dotfiles\|stow the dotfiles]]                                             | useful |

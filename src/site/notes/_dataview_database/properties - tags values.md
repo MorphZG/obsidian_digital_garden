@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/_dataview_database/properties - tags values/","title":"List of all values for tags property","tags":["dataview","index"]}
+{"dg-publish":true,"permalink":"/dataview-database/properties-tags-values/","title":"List of all values for tags property","tags":["dataview","index"]}
 ---
 
 

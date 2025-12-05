@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06_Religija/bible quotes/","title":"Bible quotes","tags":["religion","scripture"]}
+{"dg-publish":true,"permalink":"/06-religija/bible-quotes/","title":"Bible quotes","tags":["religion","scripture"]}
 ---
 
 
