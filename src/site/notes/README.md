@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","title":"Obsidian notes","tags":["github","index","obsidian"]}
+{"dg-publish":true,"permalink":"/readme/","title":"Readme: Initial setup","tags":["github","index","obsidian"]}
 ---
 
 
-# Knowledge base, secret expression room and inspirational texts
+# Readme: Initial setup
 
-Welcome to my **Obsidian vault**, a personal knowledge base containing simple Markdown notes. My favorite type of text files. Regular text files are styled using simple syntax you can learn in a day. Software like web browsers will render the styled text but even without the ability to render the markdown syntax you can view the file in any text editor and still have very clear and readable file even without styling.  
+## Knowledge base, secret expression room and inspirational texts
+
+Welcome to my **Obsidian vault**, a personal knowledge base containing simple Markdown notes. My favorite type of text files. Regular text files are styled using simple syntax you can learn in a day. Software like web browsers will render the styled text but even without the ability to render the markdown syntax you can view the file in any text editor and still have very clear and readable file even without styling.
 
 This repository is both my private workspace and a public experiment in sharing knowledge openly in a form of **digital garden**
 
@@ -19,7 +21,7 @@ This repository is both my private workspace and a public experiment in sharing 
 
 The primary goal is to transform fleeting thoughts, practical knowledge, and personal research into a structured, evolving body of content. Over time, this grows into a **Digital Garden**: a static website where ideas are published, refined, and shared.
 
-My guiding principle is simple:  
+My guiding principle is simple:
 - **Minimize cognitive load on structure**. When writing notes there is no need to waste my time on how to structure or style the note, how many directories i need and which note goes into which directory. You can use my workflow rules and adapt it to your liking if you wish.
 - **Maximize focus on content creation**. Let the workflow evolve naturally over time. No need to stick to same rules forever.
 
@@ -28,7 +30,7 @@ My guiding principle is simple:
 ## Topics Covered
 
 This vault reflects my interests and ongoing explorations:
-- Linux, CLI tools, and efficient workflows  
+- Linux, CLI tools, and efficient workflows
 - Web development and different personal projec and ideas.
 - Thoughts i found interesting to note down.
 - Comparative religion, theology, biblical history and philosophy
@@ -43,28 +45,30 @@ This vault is best navigated and managed using the **Obsidian** application.
 ### Installation
 
 1. **Clone the Repository:**
+
    ```bash
    git clone --depth 1 https://github.com/MorphZG/obsidian_vault.git
    ```
+
 2. **Download Obsidian:**
-   Install the application for Linux, macOS, or Windows.  
+   Install the application for Linux, macOS, or Windows.
    * [Download Obsidian](https://obsidian.md/download)
 3. **Open the Vault:**
    In Obsidian, select **"Open folder as vault"** and point it to the cloned directory.
 
->There is alternative branch for android devices - `mobile`  contains commits from mobile device. `mobile` branch should be the only active branch when working on the mobile device.
+> There is alternative branch for android devices - `mobile`  contains commits from mobile device. `mobile` branch should be the only active branch when working on the mobile device.
 
 ---
 
 ## Online Digital Garden
 
-My focus is on building the local vault, but I also experiment with publishing it online as a **Digital Garden**.  
-- Configured for easy publishing via the [Digital Garden plugin](https://dg-docs.ole.dev).  
+My focus is on building the local vault, but I also experiment with publishing it online as a **Digital Garden**.
+- Configured for easy publishing via the [Digital Garden plugin](https://dg-docs.ole.dev).
 - Exploring static site generators like **Astro.js** and **Gatsby**.
 
-> **Important Publishing Note**  
-> - The Digital Garden plugin requires a dedicated GitHub Token.  
-> - Always create a token with restricted permissions.  
+> **Important Publishing Note**
+> - The Digital Garden plugin requires a dedicated GitHub Token.
+> - Always create a token with restricted permissions.
 > - Consider using a local copy of the vault before publishing, since publishing adds metadata to notes.
 
 For a starting point, check out the [[_workflow\|workflow rules]] and [[_dataview_database/index\|dataview index]]. You can also search for notes with `index` tag or `index` type property.
@@ -85,8 +89,8 @@ Notes move through a rank system.
 | **05_Archive** | Deprecated or failed attempts. | Archived content |
 | **06_Religion** | Faith‑related notes and reflections. | Theology, spiritual growth |
 
-> [!NOTE] **Underscores and private resources**  
-> Directories prefixed with `_` (e.g., `_assets`, `_templates`, `_clippings`) are system‑like resources.  
+> [!NOTE] **Underscores and private resources**
+> Directories prefixed with `_` (e.g., `_assets`, `_templates`, `_clippings`) are system‑like resources.
 > They improve clarity but should be **excluded from public publishing**.
 
 ---
@@ -106,12 +110,12 @@ This vault leverages several Obsidian plugins to enhance functionality. You don'
 
 ## Contribution
 
-This is a personal knowledge vault, but inspiration and feedback are welcome!  
-- Open issues for suggestions  
-- Share ideas or workflows  
-- Fork the repo if you’d like to adapt the structure for your own vault  
+This is a personal knowledge vault, but inspiration and feedback are welcome!
+- Open issues for suggestions
+- Share ideas or workflows
+- Fork the repo if you’d like to adapt the structure for your own vault
 
-## Start with these files:
+## Start with these files
 
 You just read main `README.md` file that is used by the [Github](https://www.github.com) to display sort of presentation and description of a repository. But what now? If you installed the Obsidian and the plugins i consider essential, not required, than you can start by reading or at least quickly scanning the following files.
 

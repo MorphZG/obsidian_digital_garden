@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/start-here/","title":"Welcome my friend","tags":["personal","index","writings","gardenEntry"]}
+{"dg-publish":true,"permalink":"/start-here/","title":"Start here","tags":["personal","index","writings","gardenEntry"]}
 ---
 
 
-# Welcome my friend
+# Start here
+
+## Welcome my friend
+
+- **If you completed the setup instructions found in main [[README\|README]] file, this should be your first real interaction with my knowledge base**
 - [[_dataview_database/index\|Dataview index]] - Use this index to find the prioritised notes
 
 ![_assets/let_me_tell_a_story.jpeg](/img/user/_assets/let_me_tell_a_story.jpeg)
@@ -20,7 +24,7 @@ For all of you out there that do not have an Obsidian installed and you have zer
 
 ## Set the workflow rules
 
-Now back to my story. If you are looking for some starting point of this particular knowledge base, or this particular digital garden, you may start with my [[_workflow\|workflow rules]]. I have composed a set of rules to help me organise the content. I hate restricting my creative output so the workflow should move my focus away from where to put the note, how to set the tags and metadata, how to format the note... and keep my focus on the actual content. With the rules in place i can keep my focus on content instead of structure. 
+Now back to my story. If you are looking for some starting point of this particular knowledge base, or this particular digital garden, you may start with my [[_workflow\|workflow rules]]. I have composed a set of rules to help me organise the content. I hate restricting my creative output so the workflow should move my focus away from where to put the note, how to set the tags and metadata, how to format the note... and keep my focus on the actual content. With the rules in place i can keep my focus on content instead of structure.
 
 ## Building the index
 
