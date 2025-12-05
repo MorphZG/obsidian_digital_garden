@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-reference/yaml/","title":"YAML Ain’t Markup Language","tags":["configuration","yaml"]}
+{"dg-publish":true,"permalink":"/01-reference/yaml/","title":"YAML Ain’t Markup Language","tags":["configuration","yaml"],"created":"2025-12-05T03:27:51.078+01:00"}
 ---
 
 

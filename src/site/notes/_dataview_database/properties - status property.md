@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dataview-database/properties-status-property/","title":"properties - status property","tags":["dataview","index"]}
+{"dg-publish":true,"permalink":"/dataview-database/properties-status-property/","title":"properties - status property","tags":["dataview","index"],"created":"2025-12-05T03:27:50.833+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-reference/react-notes/","title":"React key concepts","tags":["react","webdev","programming"]}
+{"dg-publish":true,"permalink":"/01-reference/react-notes/","title":"React key concepts","tags":["react","webdev","programming"],"created":"2025-12-05T03:27:51.077+01:00"}
 ---
 
 

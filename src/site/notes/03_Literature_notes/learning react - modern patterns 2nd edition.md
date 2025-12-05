@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-literature-notes/learning-react-modern-patterns-2nd-edition/","title":"Learning React","tags":["webdev","react","javascript"]}
+{"dg-publish":true,"permalink":"/03-literature-notes/learning-react-modern-patterns-2nd-edition/","title":"Learning React","tags":["webdev","react","javascript"],"created":"2025-12-05T03:27:50.260+01:00"}
 ---
 
 

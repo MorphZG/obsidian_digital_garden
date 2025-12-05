@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-reference/connect-to-android-over-ssh/","title":"Connect to Android using SSH and Termux","tags":["linux","network","ssh"]}
+{"dg-publish":true,"permalink":"/01-reference/connect-to-android-over-ssh/","title":"Connect to Android using SSH and Termux","tags":["linux","network","ssh"],"created":"2025-12-05T03:27:51.079+01:00"}
 ---
 
 

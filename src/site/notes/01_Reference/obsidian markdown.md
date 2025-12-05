@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-reference/obsidian-markdown/","title":"Obsidian markdown","tags":["obsidian","markdown"]}
+{"dg-publish":true,"permalink":"/01-reference/obsidian-markdown/","title":"Obsidian markdown","tags":["obsidian","markdown"],"created":"2025-12-05T03:27:51.079+01:00"}
 ---
 
 

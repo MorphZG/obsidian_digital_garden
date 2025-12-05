@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dataview-database/index/","title":"index","tags":["dataview","index"]}
+{"dg-publish":true,"permalink":"/dataview-database/index/","title":"index","tags":["dataview","index"],"created":"2025-12-05T03:27:50.834+01:00"}
 ---
 
 
@@ -16,6 +16,7 @@ _Switch to edit mode to see the actual query and the comments explaining the syn
 
 | File                                                                                                                     | status | modified           |
 | ------------------------------------------------------------------------------------------------------------------------ | ------ | ------------------ |
+| [[03_Literature_notes/linux command line and shell scripting bible\|linux command line and shell scripting bible]]    | draft  | December 05, 2025  |
 | [[03_Literature_notes/the science of self-discipline\|the science of self-discipline]]                                | draft  | December 05, 2025  |
 | [[03_Literature_notes/react key concepts - an in-depth guide\|react key concepts - an in-depth guide]]                | draft  | December 05, 2025  |
 | [[03_Literature_notes/McMafia\|McMafia]]                                                                              | draft  | December 05, 2025  |
@@ -49,7 +50,6 @@ _Switch to edit mode to see the actual query and the comments explaining the syn
 | [[06_Religija/expressions/from logic to belief\|from logic to belief]]                                                | draft  | December 05, 2025  |
 | [[06_Religija/katekizam katolicke crkve\|katekizam katolicke crkve]]                                                  | draft  | December 05, 2025  |
 | [[06_Religija/todo\|todo]]                                                                                            | draft  | December 05, 2025  |
-| [[03_Literature_notes/linux command line and shell scripting bible\|linux command line and shell scripting bible]]    | draft  | December 05, 2025  |
 | [[03_Literature_notes/learning react - modern patterns 2nd edition\|learning react - modern patterns 2nd edition]]    | draft  | December 05, 2025  |
 | [[03_Literature_notes/how to take smart notes\|how to take smart notes]]                                              | draft  | December 05, 2025  |
 | [[03_Literature_notes/building a second brain\|building a second brain]]                                              | draft  | December 05, 2025  |

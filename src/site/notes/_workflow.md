@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/workflow/","title":"My Obsidian Workflow","tags":["index","obsidian","workflow"]}
+{"dg-publish":true,"permalink":"/workflow/","title":"My Obsidian Workflow","tags":["index","obsidian","workflow"],"created":"2025-12-05T03:27:51.079+01:00"}
 ---
 
 

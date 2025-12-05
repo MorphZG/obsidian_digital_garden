@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-religija/index/","title":"I am a Christian","tags":["religion","writings"]}
+{"dg-publish":true,"permalink":"/06-religija/index/","title":"I am a Christian","tags":["religion","writings"],"created":"2025-12-05T03:27:51.080+01:00"}
 ---
 
 
