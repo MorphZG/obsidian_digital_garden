@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"status":"detailed","tags":["notes","productivity","idea"],"title":"Perfect note taking system","type":"blog_post","URL":"https://dev.to/morphzg/perfect-note-taking-system-4lhe","permalink":"/04-expressions/productivity/perfect-note-taking-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04_Expressions/productivity/perfect note taking system/","title":"Perfect note taking system","tags":["notes","productivity","idea"]}
 ---
 
 

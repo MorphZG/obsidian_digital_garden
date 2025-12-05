@@ -1,5 +1,5 @@
 ---
-{"author":"Zoran Topic","date":"2025-09-16","dg-publish":true,"source":"[[06_Religija/razum dokazi i vjera|razum dokazi i vjera]]","status":"useful","tags":["religion","philosophy","writings"],"title":"Reason, Evidence, and Faith: From Atheist Curiosity to Catholic Theology","type":"blog_post","URL":null,"permalink":"/06-religija/reason-evidence-and-faith/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/06_Religija/reason evidence and faith/","title":"Reason, Evidence, and Faith: From Atheist Curiosity to Catholic Theology","tags":["religion","philosophy","writings"]}
 ---
 
 

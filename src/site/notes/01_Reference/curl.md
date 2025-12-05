@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"status":"draft","tags":["linux","network","utility"],"title":"cURL","type":"reference","URL":null,"permalink":"/01-reference/curl/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01_Reference/curl/","title":"cURL","tags":["linux","network","utility"]}
 ---
 
 

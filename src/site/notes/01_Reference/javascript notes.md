@@ -1,5 +1,5 @@
 ---
-{"date":"2025-01-30","dg-publish":true,"source":"web","status":"draft","tags":["javascript","webdev","programming"],"title":"Javascript notes","type":"reference","URL":null,"permalink":"/01-reference/javascript-notes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01_Reference/javascript notes/","title":"Javascript notes","tags":["javascript","webdev","programming"]}
 ---
 
 

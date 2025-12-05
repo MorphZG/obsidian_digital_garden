@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":"web","status":"useful","tags":["configuration","devops","linux"],"title":"Git bare repository","type":"reference","URL":null,"permalink":"/01-reference/git-bare-repository/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01_Reference/git bare repository/","title":"Git bare repository","tags":["configuration","devops","linux"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"status":"useful","tags":["configuration","yaml"],"title":"YAML Ain’t Markup Language","type":"reference","URL":null,"permalink":"/01-reference/yaml/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01_Reference/YAML/","title":"YAML Ain’t Markup Language","tags":["configuration","yaml"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"author":"Zoran Topic","date":"2025-09-15","dg-publish":true,"source":"","status":"detailed","tags":["religion","writings"],"title":"I am a Christian","type":"index","URL":null,"permalink":"/06-religija/index/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/06_Religija/index/","title":"I am a Christian","tags":["religion","writings"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"date":"2024-11-27","dg-home":true,"dg-publish":true,"source":null,"status":"useful","tags":["personal","index","writings","gardenEntry"],"title":"Start here","type":"index","URL":null,"permalink":"/start-here/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/start here/","title":"Start here","tags":["personal","index","writings","gardenEntry"]}
 ---
 
 

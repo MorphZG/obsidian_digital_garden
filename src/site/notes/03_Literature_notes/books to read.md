@@ -1,5 +1,5 @@
 ---
-{"date":"2025-12-04","dg-publish":true,"source":"https://www.goodreads.com","status":"draft","tags":["notes","reading","index"],"title":"Books to read","type":"index","URL":"https://www.goodreads.com","permalink":"/03-literature-notes/books-to-read/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/03_Literature_notes/books to read/","title":"Books to read","tags":["notes","reading","index"]}
 ---
 
 

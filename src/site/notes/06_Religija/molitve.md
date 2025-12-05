@@ -1,5 +1,5 @@
 ---
-{"author":"Zoran Topic","date":"2025-11-04","dg-publish":true,"source":"","status":"useful","tags":["religion","prayer"],"title":"Moje molitve","type":"reference","URL":null,"permalink":"/06-religija/molitve/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/06_Religija/molitve/","title":"Moje molitve","tags":["religion","prayer"]}
 ---
 
 

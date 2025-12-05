@@ -1,5 +1,5 @@
 ---
-{"date":"2024-04-12","dg-publish":true,"source":null,"status":"","tags":["security","network","javascript"],"title":"Beyond the login screen: Safeguarding your web application","type":"blog_post","URL":"https://dev.to/morphzg/beyond-the-login-screen-30j5","permalink":"/04-expressions/software/web-authentication/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04_Expressions/software/web authentication/","title":"Beyond the login screen: Safeguarding your web application","tags":["security","network","javascript"]}
 ---
 
 

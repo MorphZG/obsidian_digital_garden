@@ -1,5 +1,5 @@
 ---
-{"author":"Thiago Forte","date":null,"dg-publish":true,"source":"book","status":"draft","tags":["productivity"],"title":"Building a second brain","type":"literature_note","URL":null,"permalink":"/03-literature-notes/building-a-second-brain/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/03_Literature_notes/building a second brain/","title":"Building a second brain","tags":["productivity"]}
 ---
 
 

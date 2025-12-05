@@ -1,5 +1,5 @@
 ---
-{"date":null,"source":"dataview","tags":["dataview","index"],"title":"List of all values for type property","type":"index","URL":"https://blacksmithgu.github.io/obsidian-dataview/","dg-publish":true,"permalink":"/dataview-database/properties-type-values/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/_dataview_database/properties - type values/","title":"List of all values for type property","tags":["dataview","index"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"date":"2025-07-20","dg-publish":true,"source":"web","status":"useful","tags":["issue","nvidia","ubuntu"],"title":"Display issue after Nvidia driver update","type":"reference","URL":"","permalink":"/01-reference/nvidia-driver-fix/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01_Reference/nvidia driver fix/","title":"Display issue after Nvidia driver update","tags":["issue","nvidia","ubuntu"]}
 ---
 
 

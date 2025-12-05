@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":"","status":"detailed","tags":["index","obsidian","workflow"],"title":"My Obsidian Workflow","type":"workflow","URL":null,"permalink":"/workflow/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/_workflow/","title":"My Obsidian Workflow","tags":["index","obsidian","workflow"]}
 ---
 
 

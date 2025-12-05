@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"status":"detailed","tags":["notes","productivity","idea"],"title":"Note Taking as a Learning Tool","type":"blog_post","URL":"https://dev.to/morphzg/note-taking-as-a-learning-tool-how-to-retain-knowledge-and-spark-new-ideas-19i0","permalink":"/04-expressions/productivity/my-note-on-notetaking/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04_Expressions/productivity/my note on notetaking/","title":"Note Taking as a Learning Tool","tags":["notes","productivity","idea"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"status":"","tags":["personal","short","writings"],"title":"Izgubljen u vremenu","type":"blog_post","URL":"none","permalink":"/04-expressions/life-stories/izgubljen-u-vremenu/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04_Expressions/life stories/izgubljen u vremenu/","title":"Izgubljen u vremenu","tags":["personal","short","writings"]}
 ---
 
 

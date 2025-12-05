@@ -1,5 +1,5 @@
 ---
-{"date":null,"source":"dataview","tags":["dataview","index"],"title":"Status property","type":"index","URL":"https://blacksmithgu.github.io/obsidian-dataview/","dg-publish":true,"permalink":"/dataview-database/properties-status-property/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/_dataview_database/properties - status property/","title":"Status property","tags":["dataview","index"]}
 ---
 
 

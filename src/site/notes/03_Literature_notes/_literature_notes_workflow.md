@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"status":"useful","tags":["obsidian","index","workflow"],"title":"Literature notes - workflow","type":"workflow","URL":null,"permalink":"/03-literature-notes/literature-notes-workflow/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/03_Literature_notes/_literature_notes_workflow/","title":"Literature notes - workflow","tags":["obsidian","index","workflow"]}
 ---
 
 

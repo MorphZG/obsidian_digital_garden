@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":"documentation","status":"detailed","tags":["obsidian","markdown"],"title":"Obsidian markdown","type":"reference","URL":"https://help.obsidian.md/Home","permalink":"/01-reference/obsidian-markdown/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01_Reference/obsidian markdown/","title":"Obsidian markdown","tags":["obsidian","markdown"]}
 ---
 
 

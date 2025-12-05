@@ -1,5 +1,5 @@
 ---
-{"date":null,"source":"dataview","tags":["dataview","index"],"title":"Dataview queries","type":"index","URL":"https://blacksmithgu.github.io/obsidian-dataview/","dg-publish":true,"permalink":"/dataview-database/index/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/_dataview_database/index/","title":"Dataview queries","tags":["dataview","index"]}
 ---
 
 

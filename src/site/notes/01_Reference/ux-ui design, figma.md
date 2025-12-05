@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":"youtube.com/ZeroToMastery","status":"draft","tags":["design","UI-UX"],"title":"Design 101 Crash Course: Learn UX/UI Design, Figma","type":"knowledge","URL":"https://www.youtube.com/watch?v=cKZEgtQUxlU","permalink":"/01-reference/ux-ui-design-figma/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01_Reference/ux-ui design, figma/","title":"Design 101 Crash Course: Learn UX/UI Design, Figma","tags":["design","UI-UX"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"date":null,"source":"dataview","tags":["dataview","index"],"title":"List available properties","type":"index","URL":"https://blacksmithgu.github.io/obsidian-dataview/","dg-publish":true,"permalink":"/dataview-database/properties-available-keys/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/_dataview_database/properties - available keys/","title":"List available properties","tags":["dataview","index"]}
 ---
 
 
