@@ -16,6 +16,7 @@ _Switch to edit mode to see the actual query and the comments explaining the syn
 
 | File                                                                                                                     | status | modified           |
 | ------------------------------------------------------------------------------------------------------------------------ | ------ | ------------------ |
+| [[00_Fleeting_inbox/git workflows\|git workflows]]                                                                    | draft  | December 05, 2025  |
 | [[03_Literature_notes/react key concepts - an in-depth guide\|react key concepts - an in-depth guide]]                | draft  | December 05, 2025  |
 | [[03_Literature_notes/McMafia\|McMafia]]                                                                              | draft  | December 05, 2025  |
 | [[03_Literature_notes/learning typecript\|learning typecript]]                                                        | draft  | December 05, 2025  |
@@ -31,7 +32,6 @@ _Switch to edit mode to see the actual query and the comments explaining the syn
 | [[03_Literature_notes/linux command line and shell scripting bible\|linux command line and shell scripting bible]]    | draft  | December 05, 2025  |
 | [[00_Fleeting_inbox/Docker\|Docker]]                                                                                  | draft  | December 05, 2025  |
 | [[00_Fleeting_inbox/freelancing\|freelancing]]                                                                        | draft  | December 05, 2025  |
-| [[00_Fleeting_inbox/git workflows\|git workflows]]                                                                    | draft  | December 05, 2025  |
 | [[00_Fleeting_inbox/http and the web\|http and the web]]                                                              | draft  | December 05, 2025  |
 | [[00_Fleeting_inbox/interesting quotes\|interesting quotes]]                                                          | draft  | December 05, 2025  |
 | [[00_Fleeting_inbox/job hunting for junior devs\|job hunting for junior devs]]                                        | draft  | December 05, 2025  |
