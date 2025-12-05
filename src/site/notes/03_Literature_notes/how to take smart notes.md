@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03_Literature_notes/how to take smart notes/","title":"How to take smart notes","tags":["productivity","writings"],"created":"2025-12-05T03:27:50.260+01:00"}
+{"dg-publish":true,"dg-path":"03_Literature_notes/how to take smart notes","permalink":"/03_Literature_notes/how to take smart notes/","title":"How to take smart notes","tags":["productivity","writings"],"created":"2025-12-05T03:27:50.260+01:00"}
 ---
 
 
