@@ -20,8 +20,8 @@ _Switch to edit mode to see the actual query and the comments explaining the syn
 | [[00_Fleeting_inbox/http and the web\|http and the web]]                                                              | draft  | December 05, 2025  |
 | [[00_Fleeting_inbox/interesting quotes\|interesting quotes]]                                                          | draft  | December 05, 2025  |
 | [[00_Fleeting_inbox/job hunting for junior devs\|job hunting for junior devs]]                                        | draft  | December 05, 2025  |
-| [[01_Reference/curl\|curl]]                                                                                           | draft  | December 05, 2025  |
 | [[01_Reference/fzf\|fzf]]                                                                                             | draft  | December 05, 2025  |
+| [[01_Reference/curl\|curl]]                                                                                           | draft  | December 05, 2025  |
 | [[01_Reference/google search\|google search]]                                                                         | draft  | December 05, 2025  |
 | [[01_Reference/javascript notes\|javascript notes]]                                                                   | draft  | December 05, 2025  |
 | [[01_Reference/react notes\|react notes]]                                                                             | draft  | December 05, 2025  |

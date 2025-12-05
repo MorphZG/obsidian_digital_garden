@@ -32,8 +32,8 @@ Notes still in a form of a placeholder or not not really useful. Provides zero v
 > | [[00_Fleeting_inbox/interesting quotes\|interesting quotes]]                                                          | draft  |
 > | [[00_Fleeting_inbox/job hunting for junior devs\|job hunting for junior devs]]                                        | draft  |
 > | [[00_Fleeting_inbox/neurotransmitters\|neurotransmitters]]                                                            | draft  |
-> | [[01_Reference/curl\|curl]]                                                                                           | draft  |
 > | [[01_Reference/fzf\|fzf]]                                                                                             | draft  |
+> | [[01_Reference/curl\|curl]]                                                                                           | draft  |
 > | [[01_Reference/google search\|google search]]                                                                         | draft  |
 > | [[01_Reference/javascript notes\|javascript notes]]                                                                   | draft  |
 > | [[01_Reference/react notes\|react notes]]                                                                             | draft  |
@@ -68,8 +68,8 @@ Notes still in a form of a placeholder or not not really useful. Provides zero v
 > | [[06_Religija/expressions/from logic to belief\|from logic to belief]]                                                | draft  |
 > | [[06_Religija/katekizam katolicke crkve\|katekizam katolicke crkve]]                                                  | draft  |
 > | [[06_Religija/todo\|todo]]                                                                                            | draft  |
-> | [[_scripts/_templater_docs\|_templater_docs]]                                                                         | draft  |
 > | [[_templates/scripts_template\|scripts_template]]                                                                     | draft  |
+> | [[_scripts/_templater_docs\|_templater_docs]]                                                                         | draft  |
 > 
 { .block-language-dataview}
 
@@ -90,8 +90,8 @@ Notes providing enough value to be useful.
 > | [[01_Reference/YAML\|YAML]]                                                                       | useful |
 > | [[01_Reference/connect to android over ssh\|connect to android over ssh]]                         | useful |
 > | [[01_Reference/dataview\|dataview]]                                                               | useful |
-> | [[01_Reference/git bare repository\|git bare repository]]                                         | useful |
 > | [[01_Reference/git rebase\|git rebase]]                                                           | useful |
+> | [[01_Reference/git bare repository\|git bare repository]]                                         | useful |
 > | [[01_Reference/job interview preparation\|job interview preparation]]                             | useful |
 > | [[01_Reference/nvidia driver fix\|nvidia driver fix]]                                             | useful |
 > | [[01_Reference/stow the dotfiles\|stow the dotfiles]]                                             | useful |
@@ -104,6 +104,7 @@ Notes providing enough value to be useful.
 > | [[04_Expressions/life stories/reflection of values\|reflection of values]]                        | useful |
 > | [[04_Expressions/life stories/uncovering my ikigai\|uncovering my ikigai]]                        | useful |
 > | [[04_Expressions/life stories/who am i for real\|who am i for real]]                              | useful |
+> | [[05_Archive/template for gemini-cli\|template for gemini-cli]]                                   | useful |
 > | [[06_Religija/molitve\|molitve]]                                                                  | useful |
 > | [[06_Religija/razum dokazi i vjera\|razum dokazi i vjera]]                                        | useful |
 > | [[06_Religija/reason evidence and faith\|reason evidence and faith]]                              | useful |
@@ -111,7 +112,6 @@ Notes providing enough value to be useful.
 > | [[_scripts/nvidia_driver_scripts/index\|index]]                                                   | useful |
 > | [[_scripts/nvidia_driver_scripts/workflow_readme\|workflow_readme]]                               | useful |
 > | [[start here\|start here]]                                                                        | useful |
-> | [[05_Archive/template for gemini-cli\|template for gemini-cli]]                                   | useful |
 > 
 { .block-language-dataview}
 
